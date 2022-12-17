@@ -1,7 +1,7 @@
 
 # Repositório para informações da Guilda dos Tradutores e Revisores Radicais
 
-Se você deseja começar, por favor leia as informações a baixo, e as [ATAS](Repo-GTRR/blob/main/ATAS_DE_REUNIOES) e se inscreva nO [HABEMUS FORM](https://forms.gle/go5kCw3SzmChsiFg8).
+Se você deseja começar, por favor leia as informações a baixo, e as [ATAS](Repo-GTRR/blob/main/ATAS_DE_REUNIOES) e se inscreva no [HABEMUS FORM](https://forms.gle/go5kCw3SzmChsiFg8).
 
 ## [](https://github.com/Clemensss/Repo-GTRR/edit/main/README.md#softwares-utilizados-para-tradu%C3%A7%C3%A3o)Softwares utilizados para tradução
 
