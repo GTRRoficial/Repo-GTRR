@@ -1,6 +1,8 @@
 
 # Repositório para informações da Guilda dos Tradutores e Revisores Radicais
 
+Se você deseja começar, por favor leia as informações a baixo, e as (*ATAS*)[ATAS_DE_REUNIOES]
+
 ## [](https://github.com/Clemensss/Repo-GTRR/edit/main/README.md#softwares-utilizados-para-tradu%C3%A7%C3%A3o)Softwares utilizados para tradução
 
 ## [](https://github.com/Clemensss/Repo-GTRR/edit/main/README.md#notion)Notion
