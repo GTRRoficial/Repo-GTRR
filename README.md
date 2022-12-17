@@ -14,7 +14,7 @@ Se você deseja começar, por favor leia as informações a baixo, e as [ATAS](R
 
 ### [](https://github.com/Clemensss/Repo-GTRR/edit/main/README.md#omegat)OmegaT
 
-O OmegaT é uma ferramenta de tradução assistida por computador, gratuita e que funciona em diversas plataformas, com as seguintes funções principais:
+O [OmegaT](https://omegat.org/) é uma ferramenta de tradução assistida por computador, gratuita e que funciona em diversas plataformas, com as seguintes funções principais:
 
 Memória de tradução: o OmegaT armazena suas traduções em uma memória de tradução. Ao mesmo tempo, ele pode usar memórias de traduções anteriores para referência. As memórias de tradução podem ser úteis para uma tradução que tenha muitas repetições ou segmentos similares de texto em quantidade razoável. O OmegaT usa as memórias de tradução para guardar suas traduções anteriores e sugerir as traduções mais prováveis para o texto no qual você está trabalhando.
 
