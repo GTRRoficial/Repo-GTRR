@@ -3,6 +3,24 @@
 
 Se você deseja começar, por favor leia as informações a baixo, e as [ATAS](Repo-GTRR/blob/main/ATAS_DE_REUNIOES) e se inscreva no [HABEMUS FORM](https://forms.gle/go5kCw3SzmChsiFg8).
 
+# Introdução
+
+Olá, é sua primeira vez aqui? Vem, vou te mostrar o que é! 
+
+Seja bem vindo, bem vinda e bem vinde! 
+
+Você chegou até a guilda dos tradutores e revisores radicais. 
+
+A guilda tem como objetivo a tradução de forma coletiva de conteúdos do campo marxista-leninista. Em um primeiro momento o foco da guilda ficará em trabalhos curtos como legendagem, tradução de artigos e outros elementos que possam ser divididos sem sobrecarregar os voluntários.
+
+Os trabalhos não serão feitos com determinação de prazos e não faremos concorrência de qualquer forma às editoras do nosso campo (caso algum projeto nosso vá ser publicado por uma editora, o projeto é interrompido). 
+
+A nossa ligação com a Soberana se iniciou com a liberação desse espaço, também conversando conosco sobre conteúdos e parcerias que mostram a nossa amizade e Boa convivência. Esperamos que essa ligação entre o GTRR e a Soberana dure anos, que se torne maior. 
+
+Mas… Se você está aqui pela primeira vez, por onde você vai começar? 
+
+1) Se você for uma pessoa entusiasta, que sabe alguma língua (qualquer que seja, além do português), porém nunca traduziu ou tem experiência com as normas de tradução e tem vontade de ajudar, aqui vão algumas informações para você:
+
 ## [](https://github.com/Clemensss/Repo-GTRR/edit/main/README.md#softwares-utilizados-para-tradu%C3%A7%C3%A3o)Softwares utilizados para tradução
 
 ## [](https://github.com/Clemensss/Repo-GTRR/edit/main/README.md#notion)Notion
