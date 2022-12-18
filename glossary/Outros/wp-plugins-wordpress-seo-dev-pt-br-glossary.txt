@@ -1,0 +1,12 @@
+﻿en	pt-br
+alt attribute	atributo alt
+call-to-action	chamada à ação
+cloaking	camuflagem
+company	empresa
+help center	Central de ajuda
+keyword	palavra-chave
+meta description	meta-descrição
+newsletter	newsletter
+preview	pré-visualização
+snippet	trecho
+stop word	palavra irrelevante

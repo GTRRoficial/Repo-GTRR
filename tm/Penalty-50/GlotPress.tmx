@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="unkown" segtype="paragraph" adminlang="EN-US" srclang="EN-US" o-tmf="Olifant" creationdate="20170322T143611Z" creationid="sgomes" changedate="20170322T143747Z" changeid="sgomes">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Default</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Padrão</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recent Projects</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Projetos Recentes</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Member Since</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Membro desde</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>You must provide an email address.</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Você deve fornecer um endereço de e-mail.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>The username you provided has invalid characters.</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>O nome de usuário que você forneceu possui caracteres inválidos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Double-check your email address before continuing.</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Verifique o seu endereço de e-mail antes de prosseguir.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Email Address</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Endereço de email</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Password, twice</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Senha, duas vezes</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Usernames can have only alphanumeric characters, spaces, underscores, hyphens, periods and the @ symbol.</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Nomes de usuários só podem possuir caracteres alfanuméricos, espaços, underlines, hífens, pontos e o símbolo @.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>search</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Pesquisa</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All projects</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Todos os projetos</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Any</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Qualquer</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rejected</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Rejeitado</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Todas</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apply</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Aplicar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bulk Actions</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Ações em Massa</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filter</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Filtro</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Locale</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Localidade</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Approve</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Aprovar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Details</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Detalhes</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Username:</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Nome de usuário:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Remove</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Remover</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>user</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>usuário</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Permissions</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Permissões</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Import</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Importar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Active</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Ativo</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Description</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Descrição</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Slug</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Slug</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Name</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Nome</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cancel</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Cancelar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>or</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>ou</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Save</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Salvar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Priority</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Prioridade</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Profile</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Perfil</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Password</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Senha</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Username</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Nome de usuário</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Upgrade</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Atualizar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Log in</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Entrar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Log out</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Logout</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not found</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Não encontrado</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Login</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Entrar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Delete</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Excluir</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Edit</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Editar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Projects</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Projetos</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not Found</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Não Encontrado</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>A string with low priority!</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Uma mensagem com baixa prioridade!</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Welcome %s!</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Seja bem-vindo, %s!</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>BackPress &amp;rsaquo; Error</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>BackPress &amp;rsaquo; Erro</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Manual offsets</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Compensação manual</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Multiple %s matches</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Várias correspondências de %s</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Multiple email matches. Log in with your username.</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Várias correspondências de email. Faça login com seu nome de usuário.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Query failed</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Falha na consulta</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Invalid registration timestamp</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Horário de registro inválido</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Invalid registration time</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Horário de registro inválido</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Email already exists</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Email já existe</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Invalid email address</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Email inválido</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Nicename already exists</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>O nome já existe</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Invalid nicename</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Nome Inválido</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Name already exists</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Nome já existe</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Invalid login name</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Nome de login inválido</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Invalid object ID</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>ID de objeto inválida</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Invalid taxonomy</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Taxonomia inválida</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Empty Term</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Nome de arquivo em branco</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Too many redirects.</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Muitos redirecionamentos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Done</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Feito</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Database: %s (%s)</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Banco de dados: %s (%s)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>SQL ERROR!</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>ERRO SQL!</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>SQL ERROR! See the error log for more detail</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>ERRO SQL! Consulte o log de erros para obter mais detalhes</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Skipped</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Omitido</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Table: %s</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Tabela: %s</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Modifying database: %s (%s)</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Modificando banco de dados: %s(%s)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Updating data</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Atualizando dados</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Inserting data</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Inserindo dados</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Dropping index: %s</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Excluindo index: %s</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Adding index: %s</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Adicionando índice: %s</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Changing column: %s</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Alterando coluna: %s</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Setting default on column: %s</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Definindo padrão na coluna: %s</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Adding column: %s</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Adicionando coluna: %s</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Creating table</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Criando tabela</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>No schema available.</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Nenhum esquema disponível.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Passed variable is not a BackPress database object.</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>A variável passada não é um objeto do banco de dados BackPress.</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

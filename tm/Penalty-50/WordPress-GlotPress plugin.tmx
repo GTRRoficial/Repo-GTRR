@@ -1,0 +1,975 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="unkown" segtype="paragraph" adminlang="EN-US" srclang="EN-US" o-tmf="Olifant" creationdate="20170322T150329Z" creationid="sgomes" changedate="20170322T150451Z" changeid="sgomes">
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>delete</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>apagar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Settings</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Configura&amp;ccedil;&amp;otilde;es</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Case sensitive</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Diferenciar maiúsc./minúsc.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Warning:</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Atenção</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Administrator</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Administrador</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Old</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Antigo</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Current</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Atual</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Proudly powered by %s.</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Orgulhosamente criado com %s.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rejected</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Rejeitado</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Todos</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apply</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Aplicar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bulk Actions</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Ações em massa</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Translation of %s</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Tradução de %s</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filter</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Filtro</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Approve</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Aprovar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Locale</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Localidade</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Translations</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Traduções</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Active</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Ativa</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Slug</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Slug</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Name</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Nome</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ascending</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Crescente</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All projects</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Todos os projetos</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Import</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Importar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>import</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>importar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Details</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Detalhes</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>or</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>ou</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Save</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Salvar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Description</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Descrição</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>edit</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>editar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cancel</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Cancelar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Permissions</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Permissões</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>&amp;mdash; No parent &amp;mdash;</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>&amp;mdash; Sem pai &amp;mdash;</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Log in</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Fazer login</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Profile</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Perfil</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Delete</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Apagar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Edit</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Editar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not Found</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Não Encontrado</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More Info</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Mais informações</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Support</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Suporte</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>&lt;strong>Features&lt;/strong></seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>&lt;strong>Características&lt;/strong></seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Case sensitive</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Diferenciar maiúsc./minúsc.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Warning:</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Atenção</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>delete</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>apagar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Settings</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Configura&amp;ccedil;&amp;otilde;es</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Administrator</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Administrador</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>%1$s/%2$s [locales]</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>%1$s/%2$s</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Export</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Exportação</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Old</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Antigo</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Current</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Atual</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Order:</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Pedido:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Any</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Qualquer</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Rejected</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Rejeitado</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>User:</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Cliente:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Term:</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Termo:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Warnings</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Avisos</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>random</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Aleatório</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Todos</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Apply</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Aplicar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Bulk Actions</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Ações em massa</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Translation of %s</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Tradução de %s</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filter</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Filtro</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Sort</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Ordenar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Comment:</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Comentário:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Reject</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Rjeitar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Approve</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Aprovar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Status:</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Situação</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Extra</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Extra</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Locale</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Localidade</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Translations</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Traduções</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Username:</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Nome de usuário:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Add</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Add</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Format:</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Formato:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Active</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Ativa</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Slug</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Slug</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Name</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Nome</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Descending</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Decrescente</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Ascending</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Crescente</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Random</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Aleatória</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Priority</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Prioridade</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Translation</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Tradução</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Number of items per page:</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Número de itens por página:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Recent Projects</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Projetos Recentes</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Member Since</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Cadastrado</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Language code</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Código do idioma</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>search</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>busca</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Filter:</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Filtro:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>All projects</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Todos os projetos</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Waiting</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>À espera</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Project</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Projeto</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Export as CSV</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Exportar para CSV</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>(edit)</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>(Editar)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Are you sure you want to delete this entry?</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Você tem certeza que quer apagar essa entrada?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Create</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Criar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Description (optional)</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Descrição (opcional)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Import</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Importar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>import</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>importar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Actions:</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Ações:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Meta</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Meta</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Details</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Detalhes</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>or</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>ou</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Save</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Salvar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Description</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Descrição</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>edit</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>editar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Proudly powered by %s.</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Orgulhosamente criado com %s.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Cancel</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Cancelar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Permissions</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Permissões</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>&amp;mdash; No parent &amp;mdash;</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>&amp;mdash; Sem pai &amp;mdash;</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Log in</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Fazer login</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Log out</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Fazer logout</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Profile</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Perfil</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Home</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Casa</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Delete</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Apagar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Edit</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Editar</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Projects</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Projetos</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Default</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Default</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Forbidden</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Proibido</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Not Found</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Não Encontrado</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>More Info</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Mais informações</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Support</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Suporte</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>&lt;strong>Features&lt;/strong></seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>&lt;strong>Características&lt;/strong></seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN-US">
+<seg>Initial release.</seg>
+</tuv>
+<tuv xml:lang="PT-BR">
+<seg>Release inicial.</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

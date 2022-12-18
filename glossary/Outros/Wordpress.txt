@@ -1,0 +1,198 @@
+﻿activate	ativar
+address	corrige
+are you sure you want	tem certeza de que deseja
+array	array
+aside	nota
+at the bottom	na parte inferior
+at the top	na parte superior
+backup	backup
+backup	fazer backup
+banner	banner
+batch	lote
+batch	em lote
+bitrate	taxa de bits
+blogroll	lista de links
+browse	procurar
+browser	navegador
+by default	por padrão
+Can’t	não é possível
+captioning ID	ID de legenda
+chat	bate-papo
+cheating, uh?	Trapaceando, é?
+check	marcar
+check out	consultar
+child theme	tema filho
+clean	simples
+clear	liberar
+closed	encerrado
+color picker	seletor de cor
+Commit	Commit
+Committer	Committer
+complete	concluído
+connect to x	conectar a x
+core	arquivos básicos
+Costumizer	Personalizar
+Couldn’t	não foi possível
+crop	recortar
+customization	personalização
+customizer	personalizador
+database	banco de dados
+deactivate	desativar
+debug	depurar
+default	padrão
+default	padrão
+delete	excluir
+design	design
+device	dispositivo
+disable	desativar
+dismiss	dispensar
+display	exibir
+display	exibição
+distraction free	escrita sem distrações
+distraction-free writing	escrita sem distrações
+don’t be stupid	não marque bobeira
+done	concluído
+download	download
+download	fazer download
+draft	rascunho
+email	e-mail
+embed	mídia incorporada
+enable	ativar
+enter	digite
+entry	post
+escaping	escaping
+feature	recurso
+feeds	feeds
+fetch	coletar
+first name	nome
+flip	virar
+follow-up	
+font	fonte
+frame	frame
+freshness	tempo desde a publicação
+fullscreen	tela cheia
+gatekeeper	guardião
+global dashboard	painel geral
+header	cabeçalho
+held	retido
+help on	ajuda sobre
+hidden Gui	GUI oculta
+hold	reter
+homepage	página inicial
+hot tag	tag popular
+hotkeys	teclas de acesso
+ID	ID
+invoke URLs	chamar URLs
+keep in mind that	lembre-se de que
+key master	admin-mestre
+language	idioma
+last name	sobrenome
+latest	mais recentes
+link to	apontar para
+live preview	ver ao vivo
+log	resumo
+log in	fazer login
+log out	fazer logout
+logged	conectado
+logged out	desconectado
+logo	logo
+loop	loop
+loop	fazer loop
+malware	malware
+manage	gerenciar
+mapping	mapeamento
+mapping	mapeando
+matching x	correspondente a x
+media attachment	mídia
+metadata	metadados
+moderate	moderar
+newest	mais recente
+nickname	apelido
+no x found	nenhum x encontrado
+offine	offine
+on/off	ativado/desativado
+online	online
+Oops	Opa
+parent category	categoria mãe
+parent theme	tema pai
+password strength	nível de segurança da senha
+permalink	link permanente
+pingback	pingback
+please	
+plugin	plugin
+post	post
+post	publicar
+prefetch	pré-carregar
+preview	visualizar
+preview	visualização
+query	consulta
+rating	classificação
+refresh	atualizar
+release	release
+reply to	responder a
+request	solicitar
+reset	redefinir
+respond to	responder a
+Review	Avaliação
+Rich Editor	Editor visual
+role	função
+RSS feed	feed RSS
+save	salvar
+saved	salvo
+schedule	agenda
+schedule	agendar
+scheduled	agendado
+search	pesquisa
+search	pesquisar
+search engine	mecanismo de busca
+search for	procurar por
+secret key	chave secreta
+set a password	definir uma senha
+settings	configurações
+show	mostrar
+shuffle	embaralhar
+sidebar	barral lateral
+slug	slug
+so you cannot	portanto, você não pode
+soon	mais tarde
+spam	spam
+start	iniciar
+state-of-the-art	avançado
+status	status
+sticky	fixo
+stretch to fit	aumentar para ajustar ao tamanho
+submit	enviar
+subscribe	assinar
+subscribed	assinou
+subscriptions	assinaturas
+tab	aba
+tag	tag
+target	destino
+team	equipe
+template	modelo
+thank you	
+theme customizer	personalizador de tema
+then	então
+throttling	controle de fluxo
+tile	repetir
+timezone	fuso horário
+trackback	trackback
+trash	lixeira
+undelete	restaurar
+unfollow	deixar de seguir
+upload	upload
+upload	fazer upload
+URL	URL
+username	nome de usuário
+view	visualização
+view	ver
+warning	atenção
+website	site
+widget	widget
+with success	com sucesso
+write	gravar
+you are about to	você está prestes a
+you are not allowed to	sem permissão para
+you can just/only	basta
+you cannot to	sem permissão para
+you must have x	você deve ter x
