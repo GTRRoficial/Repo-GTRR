@@ -34,7 +34,7 @@ Não se preocupe! Vou te guiar até as coisas importantes novamente.
 
 Caso você seja um tradutor experiente, que trabalha na área e viu na GTRR uma chance de ajudar, será aqui que você vai encontrar como se organizar e seguir nossos parâmetros e diretrizes.
 
-## Recomendações Gerais 
+### Recomendações Gerais 
 
 - Optou-se pelo uso de software livre (open source) devido à acessibilidade que ele possibilita, além de uma visão mais colaborativa do uso e desenvolvimento de ferramentas. Portanto, o nosso software de tradução dedicado será o [OMEGAT](https://omegat.org/). Em relação a editores de texto, indicamos o LIBREOFFICE e o OPENOFFICE, tendo com fonte padrão para publicação a [OPENDYSLEXIC](https://opendyslexic.org/). (O link para tais fontes e os softwares gratuitos.
 - É da organização da Guilda que os projetos contem com um tradutor (ou mais) e um revisor (ou mais, igualmente). Desta forma criamos um ambiente de troca de experiências e conhecimentos.
