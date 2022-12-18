@@ -61,8 +61,7 @@ Avante, camaradas!
 - O conteúdo da Soberana sendo legendado e versado está devidamente exposto [aqui](https://gtrroficial.notion.site/Soberana-1b768d868b074f2baa9cdf19909cebc4).
 - Estabelecemos uma [ficha documental](https://gtrroficial.notion.site/Ficha-documental-091fe3d14ad84535b0cde391fb56c33b) obrigatória para que nos organizemos toda vez a cada novo projeto, independente de qual seja ele. Quando você começar a traduzir, é essencial que ela seja postada na pasta de ARQUIVO. Caso você tenha alguma dúvida sobre ela, exponha aos demais membros e eles vão te ajudar devidamente. 
 - Se você fez a ficha, basta postar [aqui](https://gtrroficial.notion.site/Arquivo-b739beb45f4943c08a9b2437a26f3f4b). Caso você não consiga usar a mesma ferramenta do Notion, envie a um dos responsáveis ou a outro membro que saiba mexer para que ele insira para ti. Caso você esteja complementando um projeto já iniciado, dividido em vários projetos separados entre si, recomendamos que você insira seu nome na ficha INICIAL, pois economiza tempo de todos os envolvidos!
-- 
-Para saber exatamente o que acordamos, como nos reunimos e o que foi falado, cá estão nossas [atas de reunião](https://gtrroficial.notion.site/Ata-reuni-o-97c44a5422a04ee1a0d151f9fc9d6e3f). Recomendamos que os membros iniciados agora LEIAM atentamente esse conteúdo.
+- Para saber exatamente o que acordamos, como nos reunimos e o que foi falado, cá estão nossas [atas de reunião](https://gtrroficial.notion.site/Ata-reuni-o-97c44a5422a04ee1a0d151f9fc9d6e3f). Recomendamos que os membros iniciados agora LEIAM atentamente esse conteúdo.
 
 ### [](https://github.com/Clemensss/Repo-GTRR/edit/main/README.md#omegat)OmegaT
 
