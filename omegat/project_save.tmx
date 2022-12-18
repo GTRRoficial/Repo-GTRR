@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="pt-BR"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>1 – Introdução e O que é Comunismo?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sheilagomes" changedate="20221218T210127Z" creationid="sheilagomes" creationdate="20221218T210127Z">
+        <seg>1 – Introduction and what is Communism?</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
