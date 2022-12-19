@@ -97,17 +97,16 @@ Se você quiser participar, saiba que não há prazos ou volumes determinados, v
 
 ### Para começar
 
-Vá ao  [Github](https://github.com/)  e crie um perfil. Então clique na sua imagem (em cima, à direita) e escolha a opção  _Your Profile_. Seu perfil será carregado e o link referente a ele aparecerá na barra de navegação. Copie esse link e  [envie para mim](https://www.multitude.trd.br/contato/).
+Vá ao  [Github](https://github.com/)  e crie um perfil. Para entrar na equipe do git do GTRR, você deve estar participar de algum projeto dentro da GTRR, assim que você fizer parte, nos vamos adicionar sua conta e te tornar um colaborador.
 
 ![enter image description here](https://miro.medium.com/max/720/1*oZFz4OkY3T1oamXvJk7Wiw.webp)
 
-Assim que receber seu e-mail, adicionarei seu perfil à equipe. Você receberá um e-mail de confirmação do Github. Clique em  _accept_  (no meio do texto) para confirmar. Então os detalhes de acesso serão enviados por e-mail ou mensagem. Aí basta abrir o OmegaT e baixar o projeto usando a opção  **Projeto > Baixar projeto de equipe**, inserindo a seguinte URL:  [https://github.com/OmegaT-L10N/pt_BR.git](https://github.com/OmegaT-L10N/pt_BR.git). Pronto! Agora é só começar a traduzir, depois de perguntar quais arquivos são os mais urgentes. Você será adicionado(a) a um grupo com todos os voluntários, para trocar ideias e tirar dúvidas.
+
 
 ### **Durante a tradução**
 
 -   As  `<tags>`  devem ser mantidas na mesma posição em que estão, na medida do possível. Em caso de dúvida, fale conosco.  **Não marque a opção Remover tags**  nas propriedades do projeto, pois isso vai interferir na memória de tradução e os outros participantes terão menos referências para trabalhar também. Veja a imagem abaixo para conferir onde está a opção Remover tags:
 ![enter image description here](https://miro.medium.com/max/640/1*ayOZaPDyVIW4ud9zb0J8_Q.webp)
-
 -   Siga as regras da gramática em português, dando atenção às letras maiúsculas e minúsculas, que têm um padrão diferente do inglês. Na tradução do OmegaT apenas a palavra inicial de cada frase (nos títulos também) e os nomes próprios mantêm letras maiúsculas. Mais abaixo há sugestões de fontes de consulta sobre gramática que usamos.
 -   O projeto já vem com TM e glossário, e você também pode adicionar termos ao glossário editável (que só aparece para você e não será compartilhado com os outros, já há um glossário geral para isso), com o atalho de teclado  **Ctrl + Shift + G**.
 -   Use as opções de  **digitação preditiva**  (que completam as palavras escritas sem que você precise digitá-las inteiras) ativadas no menu Opções > Editor > Auto-completion > History, como mostrado na imagem abaixo:
