@@ -69,8 +69,9 @@ Avante, camaradas!
 
 ### O que é o OmegaT?
 
-O OmegaT é uma CAT tool, ou seja, uma ferramenta de auxílio à tradução, gratuita e de  [código aberto](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto)  (_open source_), o que significa que é livre, não se paga nada para usá-lo, mesmo em âmbito profissional, e é livre para ser modificado e redistribuído, desde que respeitada a licença de usuário. No final de novembro de 2017 completa 15 anos de lançamento, e nesse período tornou-se um ponto de referência para tradutores do mundo todo, que encontraram nele uma ferramenta fácil, rápida, leve e eficaz, capaz de aumentar a produtividade e simplificar o trabalho.
 ![enter image description here](https://miro.medium.com/max/720/1*kZRYgaXeH-tX7bD32ssKkg.webp)
+O OmegaT é uma CAT tool, ou seja, uma ferramenta de auxílio à tradução, gratuita e de  [código aberto](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto)  (_open source_), o que significa que é livre, não se paga nada para usá-lo, mesmo em âmbito profissional, e é livre para ser modificado e redistribuído, desde que respeitada a licença de usuário. No final de novembro de 2017 completa 15 anos de lançamento, e nesse período tornou-se um ponto de referência para tradutores do mundo todo, que encontraram nele uma ferramenta fácil, rápida, leve e eficaz, capaz de aumentar a produtividade e simplificar o trabalho.
+
 [](http://www.atanet.org/chronicle-online/highlights/speaking-with-omegats-project-manager/#sthash.RuhTMjPT.JnnK6HrV.dpbs)
 E como funciona uma CAT tool? O OmegaT agrega um conjunto de recursos que permitem, entre várias outras coisas:
 
