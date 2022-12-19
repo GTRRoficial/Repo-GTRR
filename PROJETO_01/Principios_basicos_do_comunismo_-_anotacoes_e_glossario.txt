@@ -7,6 +7,8 @@ e CC pode cortar as repetições e só destacar a palavra em negrito ou itálico
 
 Ejvalle: Mantive os vícios de linguagem, porém, caso a legendagem ache desnecessário alguns, é totalmente válido removê-los. Também mantive as palavras repetidas, porém, novamente, é totalmente válido deixá-las em negrito ou itálico.
 
+Lobo: Para manter a coesão vou repetir os vícios também. Observação: há um erro no original transcrito, tópico 3, linha 4: o Ian disse "citação" ao invés de "situação", vou deixar comentando no arquivo de versão do OmegaT.
+
 Glossário
 (palavras que são importantes de a gente pesquisar o significado,
 transcrever e traduzir da mesma forma, inclusive mantendo hífens e capitalizações)
