@@ -88,8 +88,6 @@ E como funciona uma CAT tool? O OmegaT agrega um conjunto de recursos que permit
 
 As qualidades do programa ajudam a explicar o uso cada vez mais amplo do OmegaT, mas não é só isso: também há a adesão às normas do setor, a capacidade de funcionar independente do sistema operacional, mas principalmente, a comunidade que o circunda e que compartilha de uma filosofia básica. O mesmo espírito de colaboração é a base do entendimento mais amplo do OmegaT como projeto; todos os usuários são livres para contribuir com a iniciativa, portanto a sua participação é encorajada. A  [medida que um usuário se dispõe a colaborar](http://omegat.org/)  depende apenas de sua boa vontade.
 
-Da minha parte, além da tradução voluntária da interface (quem tiver interesse em ajudar,  [basta entrar em contato](https://www.multitude.trd.br/contato/)), crio materiais educativos, como este blog, uma página com  [orientações iniciais de uso](https://www.multitude.trd.br/omegat-2/), além de  [vídeos com tutoriais](https://www.youtube.com/watch?v=H9boIFsYAfU). A ideia deste blog é complementar a  [documentação oficial](http://omegat.org/documentation)  com conteúdo em português, reunindo tópicos variados e descrevendo os procedimentos através de exemplos práticos da experiência do dia a dia. Parte do material que será trazido aqui virá do “[_Guida Completa a OmegaT_](https://qabiria.com/index.php/guida-omegat)”, um manual escrito por Marco Cevoli e Sergio Alasia, que gentilmente deram permissão de reprodução do conteúdo traduzido.
-
 
 ## Como ajudar na tradução voluntária do OmegaT (trabalho remoto em equipe)
 ![](https://miro.medium.com/max/700/1*k4NiGZtlu9WxrWKXC4Kcjg.jpeg)
@@ -145,7 +143,5 @@ Quando for possível, tente evitar o uso de gêneros específicos, há muitas so
 > 
 > **EN:**  The admin added you to the group.  
 > **_PT:_** _Adicionamos você ao grupo (em vez de “O administrador o adicionou ao grupo”)._
-
-Se tiverem outras sugestões para o conteúdo deste artigo, por favor, comentem abaixo!
 
 Textos sobre OmegaT produzidos por [Sheila Gomes](https://medium.com/@sheilagomes)
