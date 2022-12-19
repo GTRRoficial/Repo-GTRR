@@ -145,6 +145,7 @@ Quando for possível, tente evitar o uso de gêneros específicos, há muitas so
 
 ### Dicionários no OmegaT
 ![](https://miro.medium.com/max/621/1*BVKstI7xMbQOeN4u5emiGg.jpeg)
+
 Quando se fala de dicionários no OmegaT, podemos nos referir a três coisas diferentes: os internos, os externos e os de verificação ortográfica. Neste artigo vou explicar as diferenças e os usos de cada um.
 
 #### Dicionários internos
@@ -184,6 +185,7 @@ Aí é só apertar  **OK**  e pronto! Você tem uma opção de busca externa que
 #### Dicionários de verificação ortográfica
 
 Os dicionários de verificação ortográfica são aqueles usados pelo programa para verificar automaticamente erros de ortografia, e alguns gramaticais também, do projeto de tradução. Eles são ativados pelo menu  **Opções > Editor > Verificador ortográfico**, que pode ser visto na imagem abaixo:
+
 ![](https://miro.medium.com/max/700/1*gu4-fwqkfLGsiQd0WRLk1w.jpeg)
 
 Para instalar dicionários dos idiomas com os quais você trabalha, caso ainda não estejam na lista de dicionários já instalados, clique no botão **Instalar novo dicionário**. A seguinte janela abrirá, onde você poderá escolher e **Instalar** os idiomas desejados:
