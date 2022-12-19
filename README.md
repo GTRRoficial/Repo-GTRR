@@ -89,7 +89,7 @@ E como funciona uma CAT tool? O OmegaT agrega um conjunto de recursos que permit
 As qualidades do programa ajudam a explicar o uso cada vez mais amplo do OmegaT, mas não é só isso: também há a adesão às normas do setor, a capacidade de funcionar independente do sistema operacional, mas principalmente, a comunidade que o circunda e que compartilha de uma filosofia básica. O mesmo espírito de colaboração é a base do entendimento mais amplo do OmegaT como projeto; todos os usuários são livres para contribuir com a iniciativa, portanto a sua participação é encorajada. A  [medida que um usuário se dispõe a colaborar](http://omegat.org/)  depende apenas de sua boa vontade.
 
 
-## Como ajudar na tradução voluntária do OmegaT (trabalho remoto em equipe)
+## Como ajudar na tradução voluntária no OmegaT (trabalho remoto em equipe)
 ![](https://miro.medium.com/max/700/1*k4NiGZtlu9WxrWKXC4Kcjg.jpeg)
 Ajudar a traduzir a interface, documentação e website do OmegaT é uma das formas de colaborar para o projeto. Para nós, tradutores, além de contribuir para disseminar o uso do OmegaT, ainda há a vantagem de conhecer melhor o próprio programa, pois o projeto é feito em equipe, com a função de trabalho remoto. E como a equipe está sempre em comunicação, também aprendemos uns com os outros constantemente.
 
@@ -142,5 +142,110 @@ Quando for possível, tente evitar o uso de gêneros específicos, há muitas so
 > 
 > **EN:**  The admin added you to the group.  
 > **_PT:_** _Adicionamos você ao grupo (em vez de “O administrador o adicionou ao grupo”)._
+
+### Dicionários no OmegaT
+![](https://miro.medium.com/max/621/1*BVKstI7xMbQOeN4u5emiGg.jpeg)
+Quando se fala de dicionários no OmegaT, podemos nos referir a três coisas diferentes: os internos, os externos e os de verificação ortográfica. Neste artigo vou explicar as diferenças e os usos de cada um.
+
+#### Dicionários internos
+
+Este não é o nome “oficial”, mas vou chamá-los assim porque são os dicionários acessados dentro do próprio programa, no editor de tradução. Eles podem ser vistos, consultados e usados pelo programa durante a tradução e a janela onde o Dicionário aparece pode ser arrastada e posicionada onde a pessoa preferir. Diferente dos glossários, os termos encontrados nestes dicionários não podem ser inseridos diretamente na tradução com atalhos de teclado, mas apenas consultados visualmente ou copiados (Ctrl+C) e colados manualmente (Ctrl+V). Mas o OmegaT usa os resultados para oferecer sugestões de vez em quando. Para usá-los você precisa ter os arquivos que formam cada dicionário dentro da pasta  _Dictionaries_  do projeto de tradução. Cada dicionário normalmente é formado por 3 arquivos, que podem ter algumas destas extensões: .ifo, .idx, .syn, .dz e .dict.
+
+Para quem trabalha entre os idiomas inglês, espanhol e português, disponibilizei o  [**Projeto Base**](https://www.dropbox.com/personal/Trabalho/OmegaT/Teste)  na página de  [**recursos do OmegaT**](https://www.sutori.com/story/omegat). Dentro dele há alguns dicionários gratuitos destes idiomas, encontrados na internet. Eles não são os mais completos, mas já dão uma boa base de busca para o trabalho mais corriqueiro. Para usá-los, basta copiar todo o conteúdo da pasta  _Dictionaries_  do link acima para a pasta de dicionários do projeto em que você está trabalhando. Para localizar esta pasta, com o projeto aberto no OmegaT, vá até o menu  **Projeto > Acessar conteúdos do projeto > Dicionários**.
+
+#### Dicionários externos
+
+Como você pode ver na imagem abaixo, estes são os dicionários que podem ser consultados a partir do OmegaT, mas abertos externamente, e não dentro do programa. Você seleciona os termos que deseja pesquisar, aperta um atalho de teclado (Alt+F) e o programa abre uma consulta na internet ou um programa de busca para dicionários em sua própria máquina.
+
+![](https://miro.medium.com/max/700/1*VwkRD2HHGcJchq0sopJxQg.jpeg)
+
+Para incluir dicionários na busca externa, basta entrar no menu **Opções > Editor > Busca externa.** Digamos que você queira incluir o [**Dicionário Criativo**](https://dicionariocriativo.com.br/) . A primeira coisa a fazer é uma busca no dicionário, para descobrir como a busca aparece na barra de endereço. No caso do Dicionário Criativo, se você procurar a palavra “computador”, por exemplo, o site mostrará o seguinte na barra de endereços, quando você mandar fazer a busca:
+
+![](https://miro.medium.com/max/418/1*rZ_6cz5zlH8o8lPpzraW-g.png)
+
+Então copie o conteúdo da barra de endereços e no menu da Busca externa no OmegaT, clique no botão **Adicionar**, à direita. Escolha um nome para o item de busca, por exemplo, “Dicionário Criativo”. Clique de novo no primeiro botão **Adicionar**, próximo à seção URLs, que aparece em azul na imagem abaixo:
+
+![](https://miro.medium.com/max/401/1*3U7fSzG7elraodQUD7_DJw.jpeg)
+É nesta próxima janela que você colará o conteúdo da barra de endereços que copiou anteriormente, substituindo a palavra procurada (neste caso, “computador”) por _{target}_, como mostrado na imagem abaixo:
+
+![](https://miro.medium.com/max/456/1*fqBCRIuElV3ZRcMWCKlGMw.jpeg)
+
+Aí é só apertar  **OK**  e pronto! Você tem uma opção de busca externa que pode ser acionada a partir do atalho Alt+F ou outro atalho selecionado por você. Aqui estão algumas URLs prontas que você pode usar para criar seus atalhos:
+
+-   **Dicionário Criativo**  
+    http://dicionariocriativo.com.br/{target}
+-   **VOC (Vocabulário Comum da Língua Portuguesa)**  
+    http://voc.cplp.org/index.php?sel=start&action=simplesearch&base=form&query={target}
+-   **EN Collocations**  
+    http://www.ozdic.com/collocation-dictionary/{target}
+-   **EN-PT Magic Search (busca em vários dicionários simultaneamente)**  
+    http://magicsearch.org/english-portuguese/{target}
+
+#### Dicionários de verificação ortográfica
+
+Os dicionários de verificação ortográfica são aqueles usados pelo programa para verificar automaticamente erros de ortografia, e alguns gramaticais também, do projeto de tradução. Eles são ativados pelo menu  **Opções > Editor > Verificador ortográfico**, que pode ser visto na imagem abaixo:
+![](https://miro.medium.com/max/700/1*gu4-fwqkfLGsiQd0WRLk1w.jpeg)
+
+Para instalar dicionários dos idiomas com os quais você trabalha, caso ainda não estejam na lista de dicionários já instalados, clique no botão **Instalar novo dicionário**. A seguinte janela abrirá, onde você poderá escolher e **Instalar** os idiomas desejados:
+
+![](https://miro.medium.com/max/386/1*zk7tEBowXBgtWbPdRHSY8w.jpeg)
+
+_Caso você tenha alguma dificuldade para baixar os dicionários de verificação ortográfica (como um servidor que não está funcionando), volte à janela anterior e use_ [**_outra URL dentre as sugeridas no site oficial do OmegaT_**](https://omegat.org/howtos/spelling.html) _na seção_ **_URL dos dicionários online_**_._
+
+### Memórias de tradução no OmegaT
+
+![](https://miro.medium.com/max/700/1*Yc5WeRjyRlOhVd5xh-PLGA.jpeg)
+
+Os vários recursos das memórias de tradução no OmegaT
+
+O que são memórias de tradução? Eu as considero a alma das CAT tools. Tanto que os próprios programas eram chamados apenas de “memórias de tradução”, e ainda hoje há quem os chame assim, em vez de CAT tools (_Computer Assisted Translation tools_ ou ferramentas de auxílio à tradução) ou mesmo TenTs (_Translation environment tools_  ou ferramentas de ambiente de tradução).
+
+Mas quando nos referimos aos arquivos usados e criados pelas ferramentas, você sabe exatamente o que são as memórias de tradução? Elas são arquivos bilíngues que as CAT tools usam para guardar as traduções feitas. A ferramenta cria uma nova memória de tradução a cada projeto, mas o próprio tradutor também pode criá-las à parte, alinhando os documentos original e traduzido que tenha feito fora da CAT tool ou de outras fontes. Isso é chamado de  [**alinhamento de textos**](https://medium.com/omegat/alinhamento-no-omegat-ad2b631f28fc)  e já foi descrito num artigo anterior deste blog. Neste artigo veremos outras formas em que as memórias de traduções podem ser úteis e as diferentes opções que o OmegaT oferece para usá-las.
+
+![](https://miro.medium.com/max/700/1*LCCJf1IwppWtqZI0wgDbhA.jpeg)
+
+Uma memória de tradução vista no editor  [**Olifant**](http://okapi.sourceforge.net/downloads.html), outro programa gratuito e de código aberto como o OmegaT
+
+Para começar, há uma forma simples de aproveitar as memórias criadas a cada projeto em trabalhos futuros, assim como as memórias criadas por alinhamento: basta colocar todas numa pasta geral de memórias de tradução. Digamos que esta pasta central seja chamada de  `TM-geral`  (apenas um exemplo, use o nome que preferir). Esta pasta pode ficar em qualquer lugar do computador. Eu deixo a minha no Dropbox e, a cada projeto que termino, depois de criar os documentos traduzidos, copio a nova memória de tradução chamada  `[nome-do-projeto]omegat.tmx`, na minha pasta  `TM-geral`. Para aproveitar as memórias acumuladas nas próximas traduções, quando crio um novo projeto, ao chegar na janela Propriedades do projeto, aponto a seção “Pasta de memórias de tradução” para a pasta  `TM-geral`:
+
+![](https://miro.medium.com/max/572/1*MERRfqqjzSBjRowZKYLB5Q.jpeg)
+
+Aponto a pasta TM-geral em cada novo projeto e aproveito todas as memórias de tradução
+
+A pasta  `TM-geral`  pode ser organizada de várias formas, com memórias divididas em subpastas e classificadas por cliente ou tipo de projeto, por exemplo. Você pode dar qualquer nome a estas pastas, desde que os nomes sejam diferentes das opções reservadas do OmegaT, que são:  `auto`,  `enforce`,  `mt`,  `Penalty-50`  e  `tmx2source`. As pastas com estes nomes têm objetivos específicos que o OmegaT atribui às memórias de tradução dentro delas. Explico cada uma abaixo:
+
+-   A pasta  `auto`  serve para fazer uma pré-tradução. Isso quer dizer que, se você tiver uma memória de tradução que tenha correspondências idênticas aos segmentos do projeto atual, basta colocar esta memória na pasta  `auto`  e o programa pré-traduz todos os segmentos que forem 100% idênticos.
+-   A pasta  `enforce`, como o nome leva a entender, força o uso das correspondências da memória de tradução dentro dela. Em outras palavras, se você tiver uma memória cujas correspondências têm prioridade acima de qualquer outra memória, coloque-a na pasta  `enforce`.
+-   Já a pasta  `mt`  é para quem usa programas de tradução automática. Eu uso o ProMT, uma ferramenta off-line e paga. Ela serve principalmente para acelerar o processo e fazer menos erros de ortografia, em textos que se adequem a esse processo. Aí traduzo o arquivo original no ProMT, alinho o texto original e o traduzido dentro do OmegaT e salvo a memória produzida na pasta  `mt`. Tudo o que for sugerido a partir dessa pasta aparece em vermelho no segmento ativo e isso indica que provavelmente haverá correções a fazer, pois a tradução foi gerada de forma automática. Essa é uma forma de usar tradução automática sem comprometer a confidencialidade de projetos, pois não há consulta à internet.
+-   A pasta  `penalty-xx`  serve para colocar as memórias que queremos usar, mas que não são prioritárias. Então colocamos uma “penalidade” nelas e diminuímos o índice da correspondência parcial conforme o número colocado depois de  _penalty_. Por exemplo, se uma memória estiver numa pasta  `penalty-50`, e um segmento dela apresentar uma correspondência de 90%, ela será penalizada em 50% e aparecerá na lista de correspondências parciais como 40%, ou seja, abaixo de outras que também tenham 90% de correspondência, mas não estejam na pasta  `penalty-50`.
+-   E finalmente, a pasta  `tmx2source`  serve para fazer revisão, como foi explicado no  [artigo anterior](https://medium.com/omegat/uma-forma-de-fazer-revis%C3%A3o-usando-o-omegat-e9b2943b59f9):
+
+![](https://miro.medium.com/max/700/1*m54naVC4AmybUwzl7Naukg.jpeg)
+
+A pasta tmx2source serve para revisão, mostrando o texto original intercalado ao traduzido e ao revisado
+
+Aproveitar esses recursos para memórias de tradução no OmegaT facilita o trabalho, oferece possibilidades além das usuais e ajuda a melhorar a qualidade final.
+### Alinhamento no OmegaT
+
+![](https://miro.medium.com/max/700/1*Ps8pPN_Pi9SgD1yRQ9h7mA.jpeg)
+
+Um dos recursos mais interessantes das novas versões do OmegaT é o alinhamento interno. Para quem não conhece o termo, alinhar no contexto de CAT tools é criar documentos bilíngues a partir de traduções já prontas, para reaproveitar soluções, acelerar o processo de tradução e manter a uniformidade dos textos. O produto final de um alinhamento é um arquivo .tmx, ou uma memória de tradução (ou  _TM_, de  _translation memory_), que o OmegaT usa para sugerir frases traduzidas de segmentos originais similares.
+
+Como dá para ver na imagem acima, a ferramenta de alinhamento do OmegaT não é apenas uma simples função acessória. É um recurso avançado que serve bem aos usuários mais experientes em alinhamento, mas também simples o suficiente para usuários iniciantes começarem a usá-lo com poucas instruções. Isso porque é possível alinhar textos sem ter que entender ou usar todos os parâmetros à disposição.
+
+É o que vamos falar aqui: sobre a forma mais básica de alinhar textos no OmegaT. A primeira coisa a fazer é acessar a função em  **Ferramentas > Alinhar arquivos**  e procurar os dois textos de acordo com os idiomas do alinhamento. Eu costumo ter os melhores resultados no alinhamento quando uso textos em formato .txt, mas o OmegaT aceita muitos formatos diferentes:
+
+![](https://miro.medium.com/max/633/1*bCbZUFbt9d9sABvzfXUoaw.jpeg)
+
+A primeira coisa a fazer é procurar e inserir os textos dos respectivos idiomas
+
+Depois de acrescentar os textos, o programa vai ao passo de ajuste de parâmetros, mostrado na primeira imagem do início deste artigo. Para o usuário básico, basta conferir os textos e apertar no botão  **Continuar**. O usuário avançado terá várias opções, desde modos de comparação, algoritmos, calculadoras e até contadores diferentes, além de poder selecionar regras de segmentação, filtros e padrões de destaque de termos específicos.
+
+Depois de apertar o botão  **Continuar**  você verá o passo de correção manual dos segmentos, como mostra a imagem abaixo. Você pode usar os botões laterais para mover os segmentos para cima ou para baixo, dividi-los, uni-los ou editá-los. Também pode marcar os pares de segmentos que quer incluir ou excluir no alinhamento, clicando nas caixas de marcação ao lado de cada um, na coluna  **Manter**. Depois de pronto, basta apertar em  **Salvar TMX**, escolher a pasta onde o arquivo será salvo e fechar a janela. Agora você tem mais uma memória de tradução pronta para usar em seus projetos!
+
+![](https://miro.medium.com/max/700/1*Ka0oIVmhm383YmIGm7JLfg.jpeg)
+
+
+O alinhamento é um processo muito útil para aproveitar o que você já fez em outros trabalhos, textos de referência já traduzidos enviados por clientes ou selecionados em sites bilíngues, por exemplo. É uma forma de fazer o programa trabalhar ainda melhor, pois quanto mais recursos terminológicos forem incluídos, mais opções serão oferecidas durante a digitação da tradução.
 
 Textos sobre OmegaT produzidos por [Sheila Gomes](https://medium.com/@sheilagomes)
