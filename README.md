@@ -122,26 +122,7 @@ Vá ao  [Github](https://github.com/)  e crie um perfil. Para entrar na equipe d
 -   [**VOC/VOLP**](http://voc.cplp.org/index.php?sel=exact&action=simplesearch&base=form&query=portugu%C3%AAs): consulta de ortografia em português
 -   **Gramática do português:** [Brasil Escola](http://brasilescola.uol.com.br/),  [Português do UOL](http://portugues.uol.com.br/),  [InfoEscola,](https://www.infoescola.com/)  [Sua língua,](http://sualingua.com.br/)  [Só Português](http://www.soportugues.com.br/)
 
-### Atenção
 
-A linguagem usada no OmegaT de forma geral é instrucional e de tom mais informal. Evite usar gírias, mas tente simplificar os termos, como nos exemplos abaixo:
-
-> **EN:**  Identifier  **used**  for alternative translations**_PT:_** _Identificador_ **_usado_** _para traduções alternativas (e não “utilizado”)_
-> 
-> **EN:**  The HTML files  **have**  no encoding declaration inside.**_PT:_** _Os arquivos HTML não_ **_têm_** _declaração de codificação interna. (e não “possuem”)_
-
-A maioria dos pronomes usados em inglês não precisa ser traduzida ao português. Veja o exemplo abaixo:
-
-> **EN:**  Refer to this article if  **you**  need assistance.  
-> **_PT:_** _Consulte este artigo caso precise de ajuda. (não é preciso usar “você”)_
-
-Quando for possível, tente evitar o uso de gêneros específicos, há muitas soluções para usar uma linguagem neutra no português, então tente usar a criatividade ou reescreva a frase, levando em conta o contexto, se for necessário:
-
-> **EN:**  Thank you for your help.  
-> **_PT:_** _Agradecemos a ajuda (e não “Obrigado(a) pela ajuda”)._
-> 
-> **EN:**  The admin added you to the group.  
-> **_PT:_** _Adicionamos você ao grupo (em vez de “O administrador o adicionou ao grupo”)._
 
 ### Dicionários no OmegaT
 ![](https://miro.medium.com/max/621/1*BVKstI7xMbQOeN4u5emiGg.jpeg)
