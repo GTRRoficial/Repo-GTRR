@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_unknown" segtype="sentence" srclang="pt-BR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="pt-BR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34,11 +34,10 @@ maybe this video's a good place to start.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
-        <seg>Então, vamos lá, vamos para uma categoria que é difícil, 
-mas imprescindível para se compreender a Crítica da economia política do Marx.</seg>
+        <seg>E por que que eu digo bases comuns?</seg>
       </tuv>
-      <tuv lang="en-US" changeid="clemens" changedate="20221219T171800Z" creationid="clemens" creationdate="20221219T165726Z">
-        <seg>So, let'go to a subject that is a bit more complicated, but  </seg>
+      <tuv lang="en-US" changeid="sheilagomes" changedate="20221219T010850Z" creationid="sheilagomes" creationdate="20221219T010850Z">
+        <seg>E por que que eu digo bases comuns?</seg>
       </tuv>
     </tu>
     <tu>
