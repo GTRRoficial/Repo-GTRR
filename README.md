@@ -63,19 +63,87 @@ Avante, camaradas!
 - Se você fez a ficha, basta postar [aqui](https://gtrroficial.notion.site/Arquivo-b739beb45f4943c08a9b2437a26f3f4b). Caso você não consiga usar a mesma ferramenta do Notion, envie a um dos responsáveis ou a outro membro que saiba mexer para que ele insira para ti. Caso você esteja complementando um projeto já iniciado, dividido em vários projetos separados entre si, recomendamos que você insira seu nome na ficha INICIAL, pois economiza tempo de todos os envolvidos!
 - Para saber exatamente o que acordamos, como nos reunimos e o que foi falado, cá estão nossas [atas de reunião](https://gtrroficial.notion.site/Ata-reuni-o-97c44a5422a04ee1a0d151f9fc9d6e3f). Recomendamos que os membros iniciados agora LEIAM atentamente esse conteúdo.
 
-### [](https://github.com/Clemensss/Repo-GTRR/edit/main/README.md#omegat)OmegaT
+## [](https://github.com/Clemensss/Repo-GTRR/edit/main/README.md#omegat)OmegaT
 
-O [OmegaT](https://omegat.org/) é uma ferramenta de tradução assistida por computador, gratuita e que funciona em diversas plataformas, com as seguintes funções principais:
+[OmegaT](https://omegat.org/).
 
-Memória de tradução: o OmegaT armazena suas traduções em uma memória de tradução. Ao mesmo tempo, ele pode usar memórias de traduções anteriores para referência. As memórias de tradução podem ser úteis para uma tradução que tenha muitas repetições ou segmentos similares de texto em quantidade razoável. O OmegaT usa as memórias de tradução para guardar suas traduções anteriores e sugerir as traduções mais prováveis para o texto no qual você está trabalhando.
+### O que é o OmegaT?
 
-Estas memórias de tradução podem ser muito úteis quando um documento já traduzido necessita ser atualizado. Frases repetidas são traduzidas automaticamente, enquanto que frases atualizadas são exibidas com a tradução prévia mais similar. Assim é muito mais fácil traduzir as modificações feitas no documento original. Se você estiver usando memórias de tradução criadas anteriormente, por exemplo, fornecidas por uma agência de tradução ou um cliente, o OmegaT usará tais arquivos como memórias de referência.
+O OmegaT é uma CAT tool, ou seja, uma ferramenta de auxílio à tradução, gratuita e de  [código aberto](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto)  (_open source_), o que significa que é livre, não se paga nada para usá-lo, mesmo em âmbito profissional, e é livre para ser modificado e redistribuído, desde que respeitada a licença de usuário. No final de novembro de 2017 completa 15 anos de lançamento, e nesse período tornou-se um ponto de referência para tradutores do mundo todo, que encontraram nele uma ferramenta fácil, rápida, leve e eficaz, capaz de aumentar a produtividade e simplificar o trabalho.
+![enter image description here](https://miro.medium.com/max/720/1*kZRYgaXeH-tX7bD32ssKkg.webp)
+[](http://www.atanet.org/chronicle-online/highlights/speaking-with-omegats-project-manager/#sthash.RuhTMjPT.JnnK6HrV.dpbs)
+E como funciona uma CAT tool? O OmegaT agrega um conjunto de recursos que permitem, entre várias outras coisas:
 
-O OmegaT usa o formato de arquivo tmx padrão para armazenar e acessar as memórias de tradução; assim o material da sua tradução pode ser usado por outros programas CAT que suportem este formato.
+-   Traduzir mantendo a formatação do documento original, que pode ser de vários formatos diferentes.
+-   Acumular as traduções feitas no decorrer do tempo, criando as chamadas “memórias de tradução”. Também conhecidas como TMs (do inglês  _Translation Memory_), estes arquivos bilíngues sugerem opções para as próximas traduções, aproveitando o próprio trabalho anterior do tradutor.
+-   Organizar recursos de terminologia como dicionários e glossários, que podem ser criados pelo tradutor.
+-   Ajudar a evitar erros de ortografia e acelerar a digitação, com funções para completar automaticamente as palavras, baseadas no histórico das TMs e nos glossários.
+-   Alinhar textos já traduzidos anteriormente, criando novas TMs.
+-   Fazer buscas em várias fontes na internet ou no próprio computador, tudo configurado pelo usuário.
+-   Filtrar segmentos de várias formas, o que ajuda a manter a uniformidade do texto e facilitar as buscas internas em arquivos.
+-   Trabalhar remotamente em equipes com usuários do mundo inteiro.
+-   Usar pequenos programas chamados “_scripts_” para executar funções personalizadas pelo usuário.
 
-Controle de terminologia: O controle de terminologia é importante para a consistência da tradução. O OmegaT usa glossários que contenham traduções de palavras únicas ou expressões, uma forma de dicionário bilíngue simplificado para um assunto específico. Caso essas palavras estejam presentes tanto no segmento aberto quanto no glossário, O Omegat exibe a tradução para sua consulta.
+As qualidades do programa ajudam a explicar o uso cada vez mais amplo do OmegaT, mas não é só isso: também há a adesão às normas do setor, a capacidade de funcionar independente do sistema operacional, mas principalmente, a comunidade que o circunda e que compartilha de uma filosofia básica. O mesmo espírito de colaboração é a base do entendimento mais amplo do OmegaT como projeto; todos os usuários são livres para contribuir com a iniciativa, portanto a sua participação é encorajada. A  [medida que um usuário se dispõe a colaborar](http://omegat.org/)  depende apenas de sua boa vontade.
 
-Processo de tradução: Imagine que você tenha para traduzir desde um arquivo único até uma pasta com subpastas repletas de arquivos em diversos formatos. Quando você indica quais arquivos quer traduzir, o OmegaT procurará pelos formatos compatíveis de acordo com as regras de filtragem de arquivo, reconhecerá neles as partes de texto, dividirá os grupos de texto maiores de acordo com as regras de segmentação, e exibirá os segmentos um a um para que você inicie a tradução. O OmegaT guarda as suas traduções e propõe traduções possíveis de segmentos semelhantes registrados em arquivos de memória de tradução. Quando estiver pronto para examinar o produto final, você pode exportar os arquivos traduzidos, abri-los na aplicação apropriada e examinar a tradução no formato final...
+Da minha parte, além da tradução voluntária da interface (quem tiver interesse em ajudar,  [basta entrar em contato](https://www.multitude.trd.br/contato/)), crio materiais educativos, como este blog, uma página com  [orientações iniciais de uso](https://www.multitude.trd.br/omegat-2/), além de  [vídeos com tutoriais](https://www.youtube.com/watch?v=H9boIFsYAfU). A ideia deste blog é complementar a  [documentação oficial](http://omegat.org/documentation)  com conteúdo em português, reunindo tópicos variados e descrevendo os procedimentos através de exemplos práticos da experiência do dia a dia. Parte do material que será trazido aqui virá do “[_Guida Completa a OmegaT_](https://qabiria.com/index.php/guida-omegat)”, um manual escrito por Marco Cevoli e Sergio Alasia, que gentilmente deram permissão de reprodução do conteúdo traduzido.
 
 
+## Como ajudar na tradução voluntária do OmegaT (trabalho remoto em equipe)
+![](https://miro.medium.com/max/700/1*k4NiGZtlu9WxrWKXC4Kcjg.jpeg)
+Ajudar a traduzir a interface, documentação e website do OmegaT é uma das formas de colaborar para o projeto. Para nós, tradutores, além de contribuir para disseminar o uso do OmegaT, ainda há a vantagem de conhecer melhor o próprio programa, pois o projeto é feito em equipe, com a função de trabalho remoto. E como a equipe está sempre em comunicação, também aprendemos uns com os outros constantemente.
 
+Se você quiser participar, saiba que não há prazos ou volumes determinados, você faz o que puder, quando puder, e negociamos caso a caso a contribuição possível. Na equipe brasileira usamos a versão mais atualizada do OmegaT (_Latest_), para aproveitar os recursos atuais. Então se ainda não usa o programa,  [baixe-o primeiro](http://omegat.org/download), tente fazer um ou dois projetos iniciais pequenos e então entre em contato comigo. Veja as  [orientações para começar a usar o OmegaT](https://www.sutori.com/story/omegat)  e se tiver dúvidas, comente aqui no final deste texto.
+
+### Para começar
+
+Vá ao  [Github](https://github.com/)  e crie um perfil. Então clique na sua imagem (em cima, à direita) e escolha a opção  _Your Profile_. Seu perfil será carregado e o link referente a ele aparecerá na barra de navegação. Copie esse link e  [envie para mim](https://www.multitude.trd.br/contato/).
+
+![enter image description here](https://miro.medium.com/max/720/1*oZFz4OkY3T1oamXvJk7Wiw.webp)
+
+Assim que receber seu e-mail, adicionarei seu perfil à equipe. Você receberá um e-mail de confirmação do Github. Clique em  _accept_  (no meio do texto) para confirmar. Então os detalhes de acesso serão enviados por e-mail ou mensagem. Aí basta abrir o OmegaT e baixar o projeto usando a opção  **Projeto > Baixar projeto de equipe**, inserindo a seguinte URL:  [https://github.com/OmegaT-L10N/pt_BR.git](https://github.com/OmegaT-L10N/pt_BR.git). Pronto! Agora é só começar a traduzir, depois de perguntar quais arquivos são os mais urgentes. Você será adicionado(a) a um grupo com todos os voluntários, para trocar ideias e tirar dúvidas.
+
+### **Durante a tradução**
+
+-   As  `<tags>`  devem ser mantidas na mesma posição em que estão, na medida do possível. Em caso de dúvida, fale conosco.  **Não marque a opção Remover tags**  nas propriedades do projeto, pois isso vai interferir na memória de tradução e os outros participantes terão menos referências para trabalhar também. Veja a imagem abaixo para conferir onde está a opção Remover tags:
+![enter image description here](https://miro.medium.com/max/640/1*ayOZaPDyVIW4ud9zb0J8_Q.webp)
+
+-   Siga as regras da gramática em português, dando atenção às letras maiúsculas e minúsculas, que têm um padrão diferente do inglês. Na tradução do OmegaT apenas a palavra inicial de cada frase (nos títulos também) e os nomes próprios mantêm letras maiúsculas. Mais abaixo há sugestões de fontes de consulta sobre gramática que usamos.
+-   O projeto já vem com TM e glossário, e você também pode adicionar termos ao glossário editável (que só aparece para você e não será compartilhado com os outros, já há um glossário geral para isso), com o atalho de teclado  **Ctrl + Shift + G**.
+-   Use as opções de  **digitação preditiva**  (que completam as palavras escritas sem que você precise digitá-las inteiras) ativadas no menu Opções > Editor > Auto-completion > History, como mostrado na imagem abaixo:
+![enter image description here](https://miro.medium.com/max/720/1*GS_61VWh6fA_rkD7tW3CiQ.webp)
+
+-   Use os recursos de pesquisa externa durante o trabalho, para agilizar a pesquisa. Eles são configurados na mesma janela mostrada na imagem acima, pela opção  **External Search**. Peça no grupo de voluntários o arquivo de configurações com vários recursos de busca.
+
+### Fontes de consulta sugeridas
+
+-   [**Magic Search**](http://magicsearch.org/english-portuguese)  (busca traduções em vários sites simultaneamente)
+-   [**Portal de terminologia da Microsoft**](https://www.microsoft.com/en-us/language)  (nem sempre tem respostas definitivas, mas pode ser um bom começo)
+-   [**Dicionário criativo**](https://dicionariocriativo.com.br/), uma boa fonte de busca de sinônimos, antônimos e palavras relacionadas em português
+-   [**VOC/VOLP**](http://voc.cplp.org/index.php?sel=exact&action=simplesearch&base=form&query=portugu%C3%AAs): consulta de ortografia em português
+-   **Gramática do português:** [Brasil Escola](http://brasilescola.uol.com.br/),  [Português do UOL](http://portugues.uol.com.br/),  [InfoEscola,](https://www.infoescola.com/)  [Sua língua,](http://sualingua.com.br/)  [Só Português](http://www.soportugues.com.br/)
+
+### Atenção
+
+A linguagem usada no OmegaT de forma geral é instrucional e de tom mais informal. Evite usar gírias, mas tente simplificar os termos, como nos exemplos abaixo:
+
+> **EN:**  Identifier  **used**  for alternative translations**_PT:_** _Identificador_ **_usado_** _para traduções alternativas (e não “utilizado”)_
+> 
+> **EN:**  The HTML files  **have**  no encoding declaration inside.**_PT:_** _Os arquivos HTML não_ **_têm_** _declaração de codificação interna. (e não “possuem”)_
+
+A maioria dos pronomes usados em inglês não precisa ser traduzida ao português. Veja o exemplo abaixo:
+
+> **EN:**  Refer to this article if  **you**  need assistance.  
+> **_PT:_** _Consulte este artigo caso precise de ajuda. (não é preciso usar “você”)_
+
+Quando for possível, tente evitar o uso de gêneros específicos, há muitas soluções para usar uma linguagem neutra no português, então tente usar a criatividade ou reescreva a frase, levando em conta o contexto, se for necessário:
+
+> **EN:**  Thank you for your help.  
+> **_PT:_** _Agradecemos a ajuda (e não “Obrigado(a) pela ajuda”)._
+> 
+> **EN:**  The admin added you to the group.  
+> **_PT:_** _Adicionamos você ao grupo (em vez de “O administrador o adicionou ao grupo”)._
+
+Se tiverem outras sugestões para o conteúdo deste artigo, por favor, comentem abaixo!
+
+Textos sobre OmegaT produzidos por [Sheila Gomes](https://medium.com/@sheilagomes)
