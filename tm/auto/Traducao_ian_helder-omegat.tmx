@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="pt-BR"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>05&lt;t0/&gt; – &lt;t1/&gt;Socialismo Científico</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T173422Z" creationid="sisadminhlr" creationdate="20221218T173422Z">
+        <seg>05&lt;t0/&gt; – &lt;t1/&gt;Scientific Socialism</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A esse antagonismo entre as duas classes principais da sociedade capitalista,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T005544Z" creationid="sisadminhlr" creationdate="20221219T005544Z">
+        <seg>To this antagonism between the two main classes of capitalistic society,,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A existência das classes e da propriedade privada</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T203046Z" creationid="sisadminhlr" creationdate="20221218T203046Z">
+        <seg>it's that the existence of social classes and private property</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A gente já sabe, também, que o mecanismo de exploração se dá através da propriedade privada.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T183745Z" creationid="sisadminhlr" creationdate="20221218T183745Z">
+        <seg>we know, also, that the mechanism of exploitation comes through private property.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A gente já viu o capitalismo explora, joga a gente na pobreza.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T205427Z" creationid="sisadminhlr" creationdate="20221218T173820Z">
+        <seg>we've seen that capitalism explores and throws us in poverty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A gente é impedido de produzir mais e melhor por causa do capitalismo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220644Z" creationid="sisadminhlr" creationdate="20221218T220644Z">
+        <seg>we're hindered from producing more and better due to capitalism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A mesma coisa com classes sociais: nem sempre houve classes sociais e,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T205902Z" creationid="sisadminhlr" creationdate="20221218T190012Z">
+        <seg>the same goes to social classes, those weren't always in the scene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A perspectiva de classes, e a perspectiva de que as classes são antagônicas,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T010654Z" creationid="sisadminhlr" creationdate="20221219T010654Z">
+        <seg>having perspective of the classes is knowing that they are antagonistic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A propriedade privada não é indispensável para a sociedade humana.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T210004Z" creationid="sisadminhlr" creationdate="20221218T204029Z">
+        <seg>Private property isn't necessary for human society.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A questão é: só existe excesso de produção no capitalismo</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T215938Z" creationid="sisadminhlr" creationdate="20221218T215938Z">
+        <seg>the catch is: there's only excess of production on capitalism</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A sociedade tinha um problema de escassez.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T215451Z" creationid="sisadminhlr" creationdate="20221218T215451Z">
+        <seg>society had an scarcity trouble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Agora que a gente tem uma análise básica (e põe básica nisso)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T214921Z" creationid="sisadminhlr" creationdate="20221218T173601Z">
+        <seg>so, by now we've got a basic, and I mean really basic, analysis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Ao expandir-se, o capitalismo gera proletários,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T004737Z" creationid="sisadminhlr" creationdate="20221219T004737Z">
+        <seg>By expanding, capitalism generate proletariats </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>As classes não são indispensáveis para a sociedade humana.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T204104Z" creationid="sisadminhlr" creationdate="20221218T204104Z">
+        <seg>Social classes aren't imperative for human society.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Até então, a sociedade tinha um problema de falta de produção.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T215412Z" creationid="sisadminhlr" creationdate="20221218T215412Z">
+        <seg>until then, society had only dealt with the lack of production issue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Como é que a gente aumenta a maquinaria e a automação, e as jornadas de trabalho ao mesmo tempo?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T183023Z" creationid="sisadminhlr" creationdate="20221218T180858Z">
+        <seg>how did we enlarge machinery and automation levels and work load simultaneously? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Como é que tem cada vez mais automação e o trabalho nunca diminui?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T181134Z" creationid="sisadminhlr" creationdate="20221218T181134Z">
+        <seg>why is it that there's more and more automation and work load never decreases?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Conforme o capitalismo vai se desenvolvendo, ele gera as próprias contradições</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T004349Z" creationid="sisadminhlr" creationdate="20221219T004349Z">
+        <seg>Throughout capitalism's development, it creates its own contradictions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E por que isso é importante?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T011321Z" creationid="sisadminhlr" creationdate="20221219T011321Z">
+        <seg>So, why does this matters?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Elas nunca vão se harmonizar, porque elas têm interesses opostos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T005503Z" creationid="sisadminhlr" creationdate="20221219T005444Z">
+        <seg>They'll never reach harmony, for they have contradictory interests/goals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Elas precisam ser transformadas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220838Z" creationid="sisadminhlr" creationdate="20221218T220838Z">
+        <seg>They need to be transformed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Eles queriam criar uma sociedade que harmonizasse toda a humanidade.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T010514Z" creationid="sisadminhlr" creationdate="20221219T010514Z">
+        <seg>They sought a society which balanced all of humanity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, a ideia de que sempre haverá patrões e empregados é falsa.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T204223Z" creationid="sisadminhlr" creationdate="20221218T204223Z">
+        <seg>So, the notion that there will always be employers and employees is false..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, como é que a gente aumenta para caramba a produtividade e ao mesmo tempo a pobreza?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T180519Z" creationid="sisadminhlr" creationdate="20221218T180519Z">
+        <seg>so, how did we sharply increase productivity and poverty as the same time?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, segundo Marx, as relações capitalistas estão obsoletas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220755Z" creationid="sisadminhlr" creationdate="20221218T220755Z">
+        <seg>So according to Marx, the capitalistic ways are obsolete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, vamos lá, uma citaçãozinha aqui do Marx para a gente debater,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T211856Z" creationid="sisadminhlr" creationdate="20221218T211856Z">
+        <seg>So, lets jump to a citation of Marx's in order to debate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, vamos lá, vamos para uma categoria que é difícil,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T171717Z" creationid="sisadminhlr" creationdate="20221218T171717Z">
+        <seg>Right then, now we'll enter a kinda category,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, vamos lá: analisando o capitalismo,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T215846Z" creationid="sisadminhlr" creationdate="20221218T182523Z">
+        <seg>okay, next: "Analyzing Capitalism"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Essa classe que ele cria é a classe que o antagoniza.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T004932Z" creationid="sisadminhlr" creationdate="20221219T004932Z">
+        <seg>This class that it creates, is the one which antagonizes it..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Essa conclusão do Marx faz com que a gente consiga enxergar</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T203423Z" creationid="sisadminhlr" creationdate="20221218T203423Z">
+        <seg>Marx's conclusion allows us to realize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Essa transformação é possível?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220859Z" creationid="sisadminhlr" creationdate="20221218T220859Z">
+        <seg>Is such transformation possible?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Luta de classes.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T005633Z" creationid="sisadminhlr" creationdate="20221219T005633Z">
+        <seg>Class struggle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Não só isso; através da análise material do capitalismo,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T204604Z" creationid="sisadminhlr" creationdate="20221218T204604Z">
+        <seg>not only that; thought the material analysis of capitalism</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Não só é possível como, segundo Marx, é altamente provável.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T221001Z" creationid="sisadminhlr" creationdate="20221218T221001Z">
+        <seg>Not only possible. according to Marx, it's very likely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Não só&lt;t0/&gt; isso&lt;t1/&gt;; ao longo da história houve diferentes formas de propriedade privada.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T222510Z" creationid="sisadminhlr" creationdate="20221218T185324Z">
+        <seg>and not just that, he also found that there has been different kinds of private property throughout history .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O Marx diz: não, a mudança vai vir de baixo para cima.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T012950Z" creationid="sisadminhlr" creationdate="20221219T012950Z">
+        <seg>Marx said otherwise: it would come bottom up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O Marx, através do método (o materialismo histórico-dialético),</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T222443Z" creationid="sisadminhlr" creationdate="20221218T184445Z">
+        <seg>Marx, through the method (dialectical and historical materialism),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O capitalismo não produz para satisfazer nossas necessidades, ele produz para satisfazer o capital.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220157Z" creationid="sisadminhlr" creationdate="20221218T220157Z">
+        <seg>capitalism does not produce in order to satisfy our needs, it does to sate the needs of the capital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O capitalismo trouxe uma produtividade para a humanidade que nunca tinha sido vista.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T214637Z" creationid="sisadminhlr" creationdate="20221218T174652Z">
+        <seg>it brought an unprecedented level of productivity, unknown to humanity by then.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O grande trunfo do marxismo foi perceber que não só existem classes,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T005118Z" creationid="sisadminhlr" creationdate="20221219T005055Z">
+        <seg>Marxism's greatest asset was to perceive that there are not only the classes,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O modo de produção capitalista conseguiu trazer um problema novo: excesso de produção.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T215754Z" creationid="sisadminhlr" creationdate="20221218T215754Z">
+        <seg>the capitalist mode of production brought a new problem: excess of production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O proletário pertence à classe que irá conduzir a revolução, diferente dos utópicos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T012241Z" creationid="sisadminhlr" creationdate="20221219T012241Z">
+        <seg>The proletariat belongs to the class that will conduct revolution, unlike the Utopians.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O proletário se torna sujeito revolucionário.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T012006Z" creationid="sisadminhlr" creationdate="20221219T012006Z">
+        <seg>The proletariat becomes the revolution's Subject. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que a gente faz?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T205440Z" creationid="sisadminhlr" creationdate="20221218T173830Z">
+        <seg>so, what do we do with this?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que a gente pode tirar dessa observação que o Marx faz?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T202954Z" creationid="sisadminhlr" creationdate="20221218T202954Z">
+        <seg>what can we take out of this observations of Marx?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que o Marx está dizendo aqui?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T214006Z" creationid="sisadminhlr" creationdate="20221218T214006Z">
+        <seg>what is that Marx mean here?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que é importante disso?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T205941Z" creationid="sisadminhlr" creationdate="20221218T203321Z">
+        <seg>Whats so relevant about that?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que é importante no Marx é que não só ele identifica as classes</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T011732Z" creationid="sisadminhlr" creationdate="20221219T011631Z">
+        <seg>Whats relevant about Marx is that not only he identifies classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O sistema burguês tornou-se demasiado estreito para conter as riquezas criadas em seu seio&lt;t0/&gt;.”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T213101Z" creationid="sisadminhlr" creationdate="20221218T213001Z">
+        <seg>...The conditions of bourgeois society are too narrow to comprise the wealth created by them&lt;t0/&gt;.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O termo surge em contraposição ao socialismo utópico.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T011301Z" creationid="sisadminhlr" creationdate="20221219T011301Z">
+        <seg>This expression appeared to contrast with Utopic Socialism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Obsoletas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220811Z" creationid="sisadminhlr" creationdate="20221218T220811Z">
+        <seg>OBSOLETE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Os utópicos acreditavam que a classe trabalhadora era incapaz de conduzir qualquer mudança.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T012439Z" creationid="sisadminhlr" creationdate="20221219T012439Z">
+        <seg>Utopians believed that the working class were unable to lead any change.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Os utópicos, de que a gente falou anteriormente, não tinham perspectiva de classe nenhuma.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T011521Z" creationid="sisadminhlr" creationdate="20221219T010357Z">
+        <seg>The Utopians, which we talked about before, had no perspective of any class.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Ou seja, as relações de produção no capitalismo tolhem a nossa capacidade produtiva.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220450Z" creationid="sisadminhlr" creationdate="20221218T220450Z">
+        <seg>That is to say/meaning, the capitalist means of production jeopardize our productive capability.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Para o marxismo, toda e qualquer doutrina, todo e qualquer conjunto de princípios</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T005751Z" creationid="sisadminhlr" creationdate="20221219T005751Z">
+        <seg>For Marxism, each and every doctrine, each and every set of principles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Pela primeira vez na história, a sociedade humana teve o problema inverso do que ela vinha tendo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T215219Z" creationid="sisadminhlr" creationdate="20221218T215219Z">
+        <seg>By the first time in history, human society was dealing with the inverse of the it's usual problem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Pois bem, a primeira conclusão que a gente pode tirar é:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T205632Z" creationid="sisadminhlr" creationdate="20221218T182746Z">
+        <seg>this being, the first thing we can know for a fact is:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Pois bem, o capitalismo desenvolveu as nossas forças produtivas de maneira inédita.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T174342Z" creationid="sisadminhlr" creationdate="20221218T174342Z">
+        <seg>very well, capitalism has developed our productive forces at a novel way .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Por quê?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T222435Z" creationid="sisadminhlr" creationdate="20221218T222435Z">
+        <seg>why thought?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Que a mudança teria que vir de cima para baixo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T012539Z" creationid="sisadminhlr" creationdate="20221219T012539Z">
+        <seg>That any change would come from top-down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Se essa produção não vira capital, ela é descartada.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220245Z" creationid="sisadminhlr" creationdate="20221218T220245Z">
+        <seg>If production doesn't become capital it is discarded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Segundo Marx, a luta de classes entre burguesia e proletariado</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T011407Z" creationid="sisadminhlr" creationdate="20221219T011407Z">
+        <seg>According to Marx, class struggle between bourgeoisie and proletariat </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Sempre a classe dominante estará acima da classe dominada.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T010233Z" creationid="sisadminhlr" creationdate="20221219T010233Z">
+        <seg>If there is an exploited class, there will be a exploiter class above it/  the dominant class will always stand atop the dominated one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Sempre existiram exploradores e explorados, gente?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T183328Z" creationid="sisadminhlr" creationdate="20221218T183328Z">
+        <seg>guys, there where always exploiters and the exploited?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Sempre.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T010252Z" creationid="sisadminhlr" creationdate="20221219T010252Z">
+        <seg>Every time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>São essas contradições que vão ser objeto da nossa próxima análise.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T181744Z" creationid="sisadminhlr" creationdate="20221218T181342Z">
+        <seg>those are the contradictions that will be our target in this next analysis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Só que, ao mesmo tempo, ele arremessou uma quantidade imensa de pessoas na miséria,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T174808Z" creationid="sisadminhlr" creationdate="20221218T174808Z">
+        <seg>however, at the same time, it thrown a huge part of humanity into misery,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Um monte de gente se proletarizou, perdeu tudo o que tinha,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T180057Z" creationid="sisadminhlr" creationdate="20221218T175300Z">
+        <seg>A huge chunk of people was proletarianized, lost everything they had,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Vamos investigar isso.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T183415Z" creationid="sisadminhlr" creationdate="20221218T183415Z">
+        <seg>Lets dig into that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>a gente chegou à conclusão de que o capitalismo se baseia na exploração, correto?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T182627Z" creationid="sisadminhlr" creationdate="20221218T182627Z">
+        <seg>we've come to the conclusion that capitalism is based in exploration, right?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>ao longo da história, as classes sociais são muito diferentes.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T202846Z" creationid="sisadminhlr" creationdate="20221218T202846Z">
+        <seg>throughout history, social classes are quite a lot different.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>com outras relações sociais.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T205315Z" creationid="sisadminhlr" creationdate="20221218T205315Z">
+        <seg>with other social relations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>como ele dá o protagonismo revolucionário para a classe dominada.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T011722Z" creationid="sisadminhlr" creationdate="20221219T011722Z">
+        <seg>he also credits revolutionary protagonist to the exploited class.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>como essas classes são irremediavelmente antagônicas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T005237Z" creationid="sisadminhlr" creationdate="20221219T005237Z">
+        <seg>and that those classes are unavoidably antagonistic to each other.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>de como funciona o capitalismo, e agora?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T173719Z" creationid="sisadminhlr" creationdate="20221218T173719Z">
+        <seg>of the way capitalism works, then what?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>desaba sobre a sociedade &lt;t0/&gt;— &lt;t1/&gt;-&lt;t2/&gt; &lt;t3/&gt;a epidemia da superprodução.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T213133Z" creationid="sisadminhlr" creationdate="20221218T212803Z">
+        <seg>- the epidemic of over-production...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>e trabalhar em jornadas exaustivas de trabalho.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T180347Z" creationid="sisadminhlr" creationdate="20221218T175523Z">
+        <seg>while bearing strenuous work hours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>está ligada a uma determinada fase do desenvolvimento da produção.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T215802Z" creationid="sisadminhlr" creationdate="20221218T203246Z">
+        <seg>it's linked to a certain phase of the development of production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>na margem da sociedade.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T174947Z" creationid="sisadminhlr" creationdate="20221218T174947Z">
+        <seg>at society's margin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>nós damos o nome de luta de classes.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T005614Z" creationid="sisadminhlr" creationdate="20221219T005614Z">
+        <seg>we named class struggle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>o Marx chega à conclusão de que a gente já tem recursos para marchar em direção a outra sociedade,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T204734Z" creationid="sisadminhlr" creationdate="20221218T204734Z">
+        <seg>Marx reached the conclusion that we've already amassed enough resources to march toward another society,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>observa que nem sempre houve propriedade privada.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T185055Z" creationid="sisadminhlr" creationdate="20221218T185055Z">
+        <seg>come to the reasoning that there has not always been private property.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>passou a vender sua força de trabalho em troca do mínimo para existir</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T222520Z" creationid="sisadminhlr" creationdate="20221218T175452Z">
+        <seg>and turned to selling their work force for /in exchange of the bare minimum to survive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>por conta das relações de produção capitalistas, que são ilógicas, são irracionais.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220102Z" creationid="sisadminhlr" creationdate="20221218T220102Z">
+        <seg>for the capitalist means of production are illogic, are irrational.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>proletários, proletários, cada vez mais, cada vez mais, cada vez mais.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T010701Z" creationid="sisadminhlr" creationdate="20221219T004851Z">
+        <seg>proletariat by proletariat, more ,more and more </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>que essas organizações sociais, essas organizações humanas, não são indispensáveis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T203917Z" creationid="sisadminhlr" creationdate="20221218T203917Z">
+        <seg>that this social organizations, these human organizations, aren't essential.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>que tente equilibrar as classes, harmonizar as classes, é utópico.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T005940Z" creationid="sisadminhlr" creationdate="20221219T005940Z">
+        <seg>that attempts to balance classes, harmonize classes are utopic. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>que vão ser as responsáveis pela sua queda, de uma forma de outra.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T004622Z" creationid="sisadminhlr" creationdate="20221219T004622Z">
+        <seg>which will be what brings its downfall, unavoidably.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>se existe exploradores e explorados, sempre foi assim?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T183235Z" creationid="sisadminhlr" creationdate="20221218T182951Z">
+        <seg>there are no exploiter without exploited, this has always been the case, right?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>são &lt;t0/&gt;é&lt;t1/&gt; &lt;t2/&gt;fundamentais &lt;t3/&gt;fundamenta&lt;t4/&gt;l&lt;t5/&gt; &lt;t6/&gt;para o que a gente chama de socialismo científico; que é como o Engels chama.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T011021Z" creationid="sisadminhlr" creationdate="20221219T011021Z">
+        <seg>it is&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt; &lt;t3/&gt;fundamental&lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt; to what we call Scientific Socialism; which is how Engels name it</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>uma citação do Manifesto Comunista:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T212849Z" creationid="sisadminhlr" creationdate="20221218T212849Z">
+        <seg>a citation from the Manifesto of the Communist Party:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>vai desembocar numa ruptura com o capitalismo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T011512Z" creationid="sisadminhlr" creationdate="20221219T011512Z">
+        <seg>will lead to a rupture with capitalism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>É falacioso.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T005956Z" creationid="sisadminhlr" creationdate="20221219T005956Z">
+        <seg>it's fallacious </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>É uma fachada.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T010032Z" creationid="sisadminhlr" creationdate="20221219T010032Z">
+        <seg>It's a front.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>“&lt;t0/&gt;Uma epidemia, que em qualquer outra época teria parecido um paradoxo,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T212716Z" creationid="sisadminhlr" creationdate="20221218T212716Z">
+        <seg>“&lt;t0/&gt;an epidemic that, in all earlier epochs, would have seemed an absurdity,</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
