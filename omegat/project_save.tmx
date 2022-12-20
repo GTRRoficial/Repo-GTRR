@@ -6,10 +6,102 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="pt-BR">
+        <seg>02 – Materialismo Histórico Dialético
+Então, mal sabem as pessoas que nunca entraram em contato com comunismo
+que o comunismo surge como uma crítica ao utopismo
+e uma crítica ao idealismo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215020Z" creationid="daniel" creationdate="20221218T214138Z">
+        <seg>02 - Dialectical and Historical Materialism
+Well, little do people that never got into contact with communism know 
+but communism appears as a critique of utopianism
+and a critique of idealism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>05 – Socialismo Científico
+Agora que a gente tem uma análise básica (e põe básica nisso)
+de como funciona o capitalismo, e agora?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sheilagomes" changedate="20221220T211154Z" creationid="sheilagomes" creationdate="20221220T211154Z">
+        <seg>05 – Socialismo Científico
+Agora que a gente tem uma análise básica (e põe básica nisso)
+de como funciona o capitalismo, e agora?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>1 – Introdução e O que é Comunismo?</seg>
       </tuv>
       <tuv lang="en-US" changeid="sheilagomes" changedate="20221218T210127Z" creationid="sheilagomes" creationdate="20221218T210127Z">
         <seg>1 – Introduction and what is Communism?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A categoria de senhor só existe mediante a existência da categoria de escravos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T183641Z" creationid="daniel" creationdate="20221218T183641Z">
+        <seg>The category of master only exists through the existence of the slave category.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A dialética é a filosofia que trabalha com categorias em constante movimento e relacionadas entre si através de contradições, de contrários.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T183138Z" creationid="daniel" creationdate="20221218T183138Z">
+        <seg>Dialectics is the philosophy that works with constantly moving categories that relate to each other by means of contradictions, of contraries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A gente está desconectado do trabalho humano que nos rodeia.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T193521Z" creationid="daniel" creationdate="20221218T193521Z">
+        <seg>We're disconnected from the human labor that surrounds us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A gente já sabe, também, que o mecanismo de exploração se dá através da propriedade privada.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T183745Z" creationid="sisadminhlr" creationdate="20221218T183745Z">
+        <seg>we know, also, that the mechanism of exploitation comes through private property.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A gente já viu o capitalismo explora, joga a gente na pobreza.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T205427Z" creationid="sisadminhlr" creationdate="20221218T173820Z">
+        <seg>we've seen that capitalism explores and throws us in poverty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A gente precisa sentar, a gente faz uma cadeira.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T222442Z" creationid="daniel" creationdate="20221218T222442Z">
+        <seg>We have to sit down, we make a chair.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A gente vai falar no materialismo histórico-dialético 
+que é um nome que já assusta, né?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215116Z" creationid="daniel" creationdate="20221218T215116Z">
+        <seg>We'll talk about dialectical and historical materialism 
+and the name already sounds scary, right?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A gente é impedido de produzir mais e melhor por causa do capitalismo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220644Z" creationid="sisadminhlr" creationdate="20221218T220644Z">
+        <seg>we're hindered from producing more and better due to capitalism.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26,6 +118,30 @@ maybe this video's a good place to start.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>A metafísica preocupada com as árvores não consegue ver o bosque.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T190703Z" creationid="daniel" creationdate="20221218T190703Z">
+        <seg>Metaphysics cannot see the woods for the trees. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A partir dessa produção qual que era a ordem social?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T231731Z" creationid="daniel" creationdate="20221218T230121Z">
+        <seg>From this production, what was the social structure?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A partir do momento que a gente satisfaz uma necessidade, a gente cria outras.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T225721Z" creationid="daniel" creationdate="20221218T225721Z">
+        <seg>From the moment we satisfy a need on, we create other needs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>A pergunta que tem que ser respondida é: qual é o Valor?</seg>
       </tuv>
       <tuv lang="en-US" changeid="sheilagomes" changedate="20221220T204530Z" creationid="sheilagomes" creationdate="20221220T204530Z">
@@ -34,10 +150,564 @@ maybe this video's a good place to start.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>A primeira vez que humano construiu uma ferramenta para conseguir se satisfazer.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T225630Z" creationid="daniel" creationdate="20221218T225630Z">
+        <seg>The first time a human built a tool in order to satisfy a need.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A propriedade privada não é indispensável para a sociedade humana.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T210004Z" creationid="sisadminhlr" creationdate="20221218T204029Z">
+        <seg>Private property isn't necessary for human society.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>A sociedade tinha um problema de escassez.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T215451Z" creationid="sisadminhlr" creationdate="20221218T215451Z">
+        <seg>society had an scarcity trouble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Agora eu quero que você pense, 
+o quão pouco a gente pensa sobre isso.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T220042Z" creationid="daniel" creationdate="20221218T220042Z">
+        <seg>Now I want you to reflect 
+on how little we think about that. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Aonde?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T220751Z" creationid="daniel" creationdate="20221218T220751Z">
+        <seg>Where?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>As classes não são indispensáveis para a sociedade humana.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T204104Z" creationid="sisadminhlr" creationdate="20221218T204104Z">
+        <seg>Social classes aren't imperative for human society.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>As duas coisas estão conectadas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T193800Z" creationid="daniel" creationdate="20221218T193800Z">
+        <seg>The two things are connected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>As revoluções acontecem quando o nosso modo de produzir
+e reproduzir a vida se transforma.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T020611Z" creationid="daniel" creationdate="20221218T231159Z">
+        <seg>Revolutions happen when our way of producing
+ and reproducing life changes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Até então, a sociedade tinha um problema de falta de produção.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T215412Z" creationid="sisadminhlr" creationdate="20221218T215412Z">
+        <seg>until then, society had only dealt with the lack of production issue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Como a ordem social de tal sociedade se conecta
+com como essa sociedade produzia?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T015945Z" creationid="daniel" creationdate="20221218T230201Z">
+        <seg>How does the social structure of said society relate
+ to the way this society produces?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Como é que a gente aumenta a maquinaria e a automação, e as jornadas de trabalho ao mesmo tempo?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T183023Z" creationid="sisadminhlr" creationdate="20221218T180858Z">
+        <seg>how did we enlarge machinery and automation levels and work load simultaneously? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Como é que tem cada vez mais automação e o trabalho nunca diminui?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T181134Z" creationid="sisadminhlr" creationdate="20221218T181134Z">
+        <seg>why is it that there's more and more automation and work load never decreases?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Cultura, religião, moral, entre outras coisas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T223531Z" creationid="daniel" creationdate="20221218T223531Z">
+        <seg>Culture, religion, morals, among other things.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>De conformidade com isso, as causas profundas de todas as transformações sociais e de todas as revoluções políticas não devem ser procuradas 
+nas cabeças dos homens nem na ideia que eles façam
+da verdade eterna ou da eterna justiça,
+mas nas transformações operadas no modo de produção e troca;
+devem ser procuradas não na filosofia, mas na economia da época de que se trata.” 
+Então, gente, as revoluções incluindo as revoluções burguesas
+não foram feitas da maneira como os próprios liberais descrevem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T224914Z" creationid="daniel" creationdate="20221218T230903Z">
+        <seg>From this point of view, the final causes of all social changes and political revolutions are to be sought,
+ not in men's brains, not in men's better insights into
+ eternal truth and justice, but in changes in the modes of production and exchange.
+ They are to be sought, not in the philosophy, but in the economics of each particular epoch." 
+This means that revolutions, including the bourgeois revolutions,
+ didn't happen in the way liberals themselves describe it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>De maneira resumida, só existe senhor se existe escravo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T183459Z" creationid="daniel" creationdate="20221218T183459Z">
+        <seg>In summary, the master can exist only if there is a slave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Depende disso, como a gente se transporta, 
+como a gente satisfaz as nossas necessidades.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T224323Z" creationid="daniel" creationdate="20221218T223107Z">
+        <seg>It depends on that, on how we transport ourselves,
+how we satisfy our needs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Dependente.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T224220Z" creationid="daniel" creationdate="20221218T224220Z">
+        <seg>Dependent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E aí, lembra que era materialismo histórico-dialético?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T225129Z" creationid="daniel" creationdate="20221218T225112Z">
+        <seg>So do you remember what was dialectical and historical materialism?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E crítica ao que do Hegel?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T194218Z" creationid="daniel" creationdate="20221218T194013Z">
+        <seg>A critique of what exactly?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E eu quero pedir para vocês fazerem um exercício agora.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T223010Z" creationid="daniel" creationdate="20221218T192420Z">
+        <seg>I want you to do a mental exercise now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E existe uma ligação inseparável, inseparável entre a realidade material, 
+os objetos que nos circundam, 
+e como a gente se organiza socialmente.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T014038Z" creationid="daniel" creationdate="20221218T221500Z">
+        <seg>And there is an inseparable connection between material reality,
+the objects that are around us, and how we organize society.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E isso significa dizer, gente, que, por exemplo, a nossa religião tem
+tudo a ver com como nós produzimos nossa realidade material, 
+como nós produzimos nossa comida, nossas casas, nossas roupas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T224511Z" creationid="daniel" creationdate="20221218T223809Z">
+        <seg>That is to say, for example, that our religion has
+everything to do with how we produce our material reality,
+how we produce our food, our houses, our clothes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E isso é o que a gente chama de idealismo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T231458Z" creationid="daniel" creationdate="20221218T231458Z">
+        <seg>And that's what we call idealism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E mais que isso, conforme o capitalismo foi se desenvolvendo, 
+surgiram filósofos que viam que estava acontecendo, 
+viam o avanço da pobreza, da miséria, 
+e concebiam sociedades mais justas, mais igualitárias que fossem 
+libertadoras para toda a humanidade.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T014020Z" creationid="daniel" creationdate="20221218T220748Z">
+        <seg>More than that, as capitalism developed 
+there appeared philosophers that saw what was happening,
+the rise of poverty, of misery,
+and devised fairer, more egalitarian societies 
+that would free all of humanity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E mais, quem transportou esse sofá até aí?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T192752Z" creationid="daniel" creationdate="20221218T192752Z">
+        <seg>And further, who transported it there?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E não, gente, não foram máquinas, não foram só máquinas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T223147Z" creationid="daniel" creationdate="20221218T193425Z">
+        <seg>And no, it wasn't machines, it wasn't just machines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>E o meu objetivo aqui é apresentar as bases comuns do comunismo.</seg>
       </tuv>
       <tuv lang="en-US" changeid="sheilagomes" changedate="20221219T010846Z" creationid="sheilagomes" creationdate="20221219T010846Z">
         <seg>And my goal here is to present the common foundations of communism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E o pensamento humano, por sua vez, é a manifestação de uma Ideia original
+(com “i” maiúsculo), que é oriunda, que vem da divindade de Deus.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T220408Z" creationid="daniel" creationdate="20221218T220408Z">
+        <seg>And human thought in its turn is the manifestation of the original Idea
+(with capital "i") that comes from the deity, from God. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E o que que é a realidade material?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T221855Z" creationid="daniel" creationdate="20221218T221855Z">
+        <seg>So what is material reality?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E o que que é dialética?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T180409Z" creationid="daniel" creationdate="20221218T180409Z">
+        <seg>So what is dialectics?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E observa, eu quero que você pense no seguinte: 
+quem que fez essas coisas?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T220032Z" creationid="daniel" creationdate="20221218T220032Z">
+        <seg>I want you to think about this: 
+who made these things?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E os jovens hegelianos também eram idealistas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T211616Z" creationid="daniel" creationdate="20221218T211616Z">
+        <seg>And the Young Hegelians were also idealists.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E por que isso é importante?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T011321Z" creationid="sisadminhlr" creationdate="20221219T011321Z">
+        <seg>So, why does this matters?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E é disso que a gente vai falar agora.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T173435Z" creationid="daniel" creationdate="20221218T173435Z">
+        <seg>And that's what we're going to talk about now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Ela não surge na cabeça de alguém e depois ela é aplicada a realidade
+porque isso é impossível, isso vai contra as leis da natureza.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T020645Z" creationid="daniel" creationdate="20221218T231347Z">
+        <seg>It doesn't appear in someone's mind and is then applied into reality
+because that's impossible, that goes against the laws of nature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Ela não é determinada de maneira mecânica, mas ela é dependente.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T224249Z" creationid="daniel" creationdate="20221218T224249Z">
+        <seg>It is not mechanically determined by it, but dependent on it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Ela tornou impossível trabalhar com categorias fixas, 
+as categorias são móveis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T222857Z" creationid="daniel" creationdate="20221218T215924Z">
+        <seg>It made it impossible to work with fixed categories, 
+categories are now changing. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Elas nunca vão se harmonizar, porque elas têm interesses opostos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T005503Z" creationid="sisadminhlr" creationdate="20221219T005444Z">
+        <seg>They'll never reach harmony, for they have contradictory interests/goals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Elas precisam ser transformadas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220838Z" creationid="sisadminhlr" creationdate="20221218T220838Z">
+        <seg>They need to be transformed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Elas se conectam, elas interagem entre si e elas se movem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T224636Z" creationid="daniel" creationdate="20221218T224636Z">
+        <seg>They are connected, they interact with each other and they move.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Elas se transformam, elas surgem e deixam de existir 
+conforme a história caminha.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215934Z" creationid="daniel" creationdate="20221218T215934Z">
+        <seg>They transform, they emerge and come to pass 
+as History goes on. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Eles acreditavam que o impedia a sociedade de se desenvolver
+eram as ideias nas mentes das pessoas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T223846Z" creationid="daniel" creationdate="20221218T220422Z">
+        <seg>They believed that what prevented society's development
+were the ideas in people's minds. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Eles queriam criar uma sociedade que harmonizasse toda a humanidade.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T010514Z" creationid="sisadminhlr" creationdate="20221219T010514Z">
+        <seg>They sought a society which balanced all of humanity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Em resumo: a metafísica é um método que trabalha com categorias fixas
+e isoladas entre si.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215517Z" creationid="daniel" creationdate="20221218T215454Z">
+        <seg>In summary: metaphysics is a method that works with isolated,
+fixed categories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Em suas conexões, em seu movimento, e não em categorias fixas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T224614Z" creationid="daniel" creationdate="20221218T224545Z">
+        <seg>In its connections, in its movement, and not in fixed categories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Em suas contradições entre senhor e escravo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T183745Z" creationid="daniel" creationdate="20221218T183745Z">
+        <seg>Within the contradictions between master and slave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Engels: “Para o metafísico, as coisas e suas imagens no pensamento, os conceitos, são objetos de investigação isolados, fixos, rígidos, focalizados, um após o outro, de per si, como algo dado e perene.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215419Z" creationid="daniel" creationdate="20221218T215419Z">
+        <seg>Engels: "To the metaphysician, things and their mental reflexes, ideas, are isolated, are to be considered one after the other and apart from each other, are objects of investigation fixed, rigid, given once for all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então isso é a metafísica.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T182019Z" creationid="daniel" creationdate="20221218T182019Z">
+        <seg>That's metaphysics then.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, Marx e o Engels olham para a história e veem:
+como se produzia?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T224816Z" creationid="daniel" creationdate="20221218T225939Z">
+        <seg>So Marx and Engels look at History and ask:
+how did they produce?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, Marx pega a dialética hegeliana, mas exclui o idealismo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T204228Z" creationid="daniel" creationdate="20221218T204228Z">
+        <seg>So Marx takes Hegelian dialectics but  leaves out the idealism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, a ideia de que sempre haverá patrões e empregados é falsa.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T204223Z" creationid="sisadminhlr" creationdate="20221218T204223Z">
+        <seg>So, the notion that there will always be employers and employees is false..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, a maneira como a gente produz a nossa realidade, 
+a gente chama de infraestrutura.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T224338Z" creationid="daniel" creationdate="20221218T223146Z">
+        <seg>So the way we produce reality
+we call it infrastructure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, a nossa cultura, a nossa religião, a nossa moral pode
+impactar como a gente produz a nossa realidade.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T015307Z" creationid="daniel" creationdate="20221218T224407Z">
+        <seg>So our culture, our religion, our morals can
+impact on how we produce our reality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, a teoria evolutiva do Darwin deu um baque enorme na metafísica 
+porque ela trabalha com uma transformação, 
+uma movimentação histórica a longuíssimo prazo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215846Z" creationid="daniel" creationdate="20221218T215846Z">
+        <seg>Darwin's theory of evolution was a huge blow to metaphysics 
+because it works with transformation, 
+with historical change, on the very long term. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, como é que a gente aumenta para caramba a produtividade e ao mesmo tempo a pobreza?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T180519Z" creationid="sisadminhlr" creationdate="20221218T180519Z">
+        <seg>so, how did we sharply increase productivity and poverty as the same time?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, materialismo histórico-dialético, a gente vai começar
+conversando um pouco sobre dialética.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215303Z" creationid="daniel" creationdate="20221218T215303Z">
+        <seg>So, dialectical and historical materialism, we'll begin
+by talking a bit about dialectics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, mesmo sendo muito crítico à filosofia do Hegel.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T175726Z" creationid="daniel" creationdate="20221218T175726Z">
+        <seg>Well, even though he was a harsh critic of Hegel's philosophy,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, para resumir, vamos lá, tem uma citação longa, 
+mas é uma citação que amarra tudo que eu falei.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T015952Z" creationid="daniel" creationdate="20221218T230328Z">
+        <seg>For summarizing, there's a quotation that's a bit long,
+ but it ties together everything I've said. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, pro Marx e pro Engels, o primeiro fato histórico é
+a satisfação das nossas necessidades.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T015725Z" creationid="daniel" creationdate="20221218T225548Z">
+        <seg>So for Marx and Engels the first historical fact is
+ the satisfaction of our needs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, segundo Engels, é uma analogia que ele faz que eu acho boa.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T185318Z" creationid="daniel" creationdate="20221218T185318Z">
+        <seg>So, according to Engels, and I think that's a good analogy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, segundo Marx, as relações capitalistas estão obsoletas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220755Z" creationid="sisadminhlr" creationdate="20221218T220755Z">
+        <seg>So according to Marx, the capitalistic ways are obsolete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, usando um exemplo clássico que o Engels usa, 
+a famosa dialética do senhor e do escravo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T222648Z" creationid="daniel" creationdate="20221218T215613Z">
+        <seg>So, a famous example Hegel gives, 
+the master-slave dialectic. </seg>
       </tuv>
     </tu>
     <tu>
@@ -51,10 +721,1303 @@ mas imprescindível para se compreender a Crítica da economia política do Marx
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Então, vamos lá.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T175124Z" creationid="daniel" creationdate="20221218T175124Z">
+        <seg>Right then,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, vamos pegar uma citação do próprio Marx: 
+“Meu método dialético, em seus fundamentos, não 
+é apenas diferente do método hegeliano, mas é exatamente o seu oposto.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T220241Z" creationid="daniel" creationdate="20221218T220241Z">
+        <seg>Let's use a quotation from Marx himself then: 
+My dialectic method is not 
+only different from the Hegelian, but is its direct opposite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Essa classe que ele cria é a classe que o antagoniza.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T004932Z" creationid="sisadminhlr" creationdate="20221219T004932Z">
+        <seg>This class that it creates, is the one which antagonizes it..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Essa conclusão do Marx faz com que a gente consiga enxergar
+que essas organizações sociais, essas organizações humanas, não são indispensáveis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sheilagomes" changedate="20221220T211454Z" creationid="sheilagomes" creationdate="20221220T211454Z">
+        <seg>Essa conclusão do Marx faz com que a gente consiga enxergar
+que essas organizações sociais, essas organizações humanas, não são indispensáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Essa crítica ao idealismo está 
+principalmente numa crítica à filosofia do Hegel.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T220211Z" creationid="daniel" creationdate="20221218T220211Z">
+        <seg>And this critique of idealism is 
+mainly a critique of Hegel's philosophy. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Essa transformação é possível?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220859Z" creationid="sisadminhlr" creationdate="20221218T220859Z">
+        <seg>Is such transformation possible?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Essa é a diferença, tá?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T221845Z" creationid="daniel" creationdate="20221218T221845Z">
+        <seg>That's the difference, right?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Essas duas coisas são indissociáveis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T221532Z" creationid="daniel" creationdate="20221218T221532Z">
+        <seg>These two things are inseparable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Esse método faz com que o Marx e o Engels olhem
+para a história através de como as pessoas produziram
+a sua realidade para satisfazer as suas necessidades 
+e como isso afetava a ordem social.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T015716Z" creationid="daniel" creationdate="20221218T225419Z">
+        <seg>This method is such that Marx and Engels perceive
+ History through the ways people produced
+ their reality in order to satisfy their needs and how that affected the social structure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Esse processo histórico é o processo de criação de novas necessidades.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T225803Z" creationid="daniel" creationdate="20221218T225803Z">
+        <seg>This is the historical process for creating new needs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Esse é o grande trunfo do materialismo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T223341Z" creationid="daniel" creationdate="20221218T193846Z">
+        <seg>That's materialism's great trump card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Esse é o primeiro fato histórico.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T225650Z" creationid="daniel" creationdate="20221218T225650Z">
+        <seg>Thats the first historical fact.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Esse é o princípio dialético da filosofia do Marx, 
+que é influenciada pelo Hegel.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215959Z" creationid="daniel" creationdate="20221218T215959Z">
+        <seg>That's the dialectical principle of Marx's philosophy 
+which is influenced by Hegel. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Esse é o trecho da live que eu mais vou fazer citações, tá, gente?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T181426Z" creationid="daniel" creationdate="20221218T181418Z">
+        <seg>That's the part of the stream where I'll cite the most, ok?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Esses filósofos ficaram conhecidos como socialistas utópicos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T220919Z" creationid="daniel" creationdate="20221218T220919Z">
+        <seg>These philosophers became known as Utopian socialists. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Eu sei que é difícil, mas dá uma chance e pelo menos fica
+familiarizado com esse vocabulário: materialismo, base material, 
+infraestrutura, superestrutura, dialética, etc.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T015615Z" creationid="daniel" creationdate="20221218T224735Z">
+        <seg>I know it's complicated, but give it a chance and at least
+ get familiarized with this vocabulary: materialism, material basis,
+ infrastructure, superstructure, dialectics, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Eu só ‘tô mostrando para vocês como as categorias que a dialética trabalha
+são categorias conectadas e móveis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T222743Z" creationid="daniel" creationdate="20221218T215813Z">
+        <seg>I'm just showing you how the categories that dialectics works
+are interconnected and ever changing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Eu vou evitar trazer muita citação aqui, 
+mas essas situações eu acho que elas ajudam
+porque essa parte é difícil mesmo, tá?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T222523Z" creationid="daniel" creationdate="20221218T215357Z">
+        <seg>I'll avoid reading too many quotations 
+but I think these ones are helpful
+because this part is quite difficult. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Idealismo, gente, é você criar uma ideia na sua cabeça 
+e tentar aplicar à realidade.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T221058Z" creationid="daniel" creationdate="20221218T221058Z">
+        <seg>Idealism means you create an idea in your head and try to apply it to reality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Influenciado de que forma?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T175801Z" creationid="daniel" creationdate="20221218T175801Z">
+        <seg>But influenced in what way?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Infraestrutura e superestrutura não são categorias fixas e móveis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T224612Z" creationid="daniel" creationdate="20221218T224612Z">
+        <seg>Infrastructure and superstructure aren't fixed, unchanging categories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Isso a gente chama de superestrutura.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T223451Z" creationid="daniel" creationdate="20221218T223451Z">
+        <seg>We call that superstructure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Isso aqui é importantíssimo, 
+uma vez que se ergue essa superestrutura, 
+essa superestrutura impacta novamente as bases materiais.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T015219Z" creationid="daniel" creationdate="20221218T224336Z">
+        <seg>This is really important;
+once this superstructure has risen,
+it impacts back on the material basis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Isso aqui é uma citação Capital.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T205438Z" creationid="daniel" creationdate="20221218T205438Z">
+        <seg>That's a quotation from Capital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Isso ele tá se referindo a trechos do livro que eu estou citando aqui, “Do Socialismo Utópico ao Socialismo Científico”, do Engels.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T182933Z" creationid="daniel" creationdate="20221218T182933Z">
+        <seg>That's referring to passages of this book I'm quoting, "Socialism: Utopian and Scientific" by Engels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Isso está conectado, a gente nunca pode
+perder de vista a base material da realidade.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T015134Z" creationid="daniel" creationdate="20221218T223902Z">
+        <seg>That is all connected and we can never
+loose sight of the material basis of reality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Isso faz parte da realidade material também.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T222452Z" creationid="daniel" creationdate="20221218T222452Z">
+        <seg>That's part of material reality as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Isso tudo é produzido para satisfazer nossas necessidades materiais.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T222427Z" creationid="daniel" creationdate="20221218T222427Z">
+        <seg>That all produced in order to satisfy our material needs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Isso é algo que a gente precisaria de dez tomos para responder.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T180432Z" creationid="daniel" creationdate="20221218T180432Z">
+        <seg>That's something we'd need ten tomes to answer,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Isso é o materialismo histórico.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T230208Z" creationid="daniel" creationdate="20221218T230208Z">
+        <seg>That's historical materialism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Isso é o materialismo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T221830Z" creationid="daniel" creationdate="20221218T221830Z">
+        <seg>That's materialism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Isso é um movimento dialético.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T224446Z" creationid="daniel" creationdate="20221218T224446Z">
+        <seg>That's a dialectical movement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Já a dialética, outra citação do Engels: 
+“...focaliza as coisas e suas imagens conceituais substancialmente em suas conexões, em sua concatenação, em sua dinâmica, em seu processo de nascimento e caducidade, fenômenos como os expostos não são mais que outras tantas confirmações de seu modo genuíno de proceder”.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215546Z" creationid="daniel" creationdate="20221218T215505Z">
+        <seg>Dialectics, on the other hand, another quote from Engels: 
+"...comprehends things and their representations, ideas, in their essential connection, concatenation, motion, origin and ending. Such processes as those mentioned above are, therefore, so many corroborations of its own method of procedure".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Lembra a gente falou que a dialética era importante?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T224515Z" creationid="daniel" creationdate="20221218T224515Z">
+        <seg>Remember we said dialectics was important?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Lembra que eu falei para a gente olhar em volta?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T222333Z" creationid="daniel" creationdate="20221218T222328Z">
+        <seg>Remember I told you to look around?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Lembra que eu falei que o marxismo surge como uma crítica ao idealismo?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T223434Z" creationid="daniel" creationdate="20221218T203837Z">
+        <seg>Remember I said Marxism came around as a critique to idealism? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Lembra que o Marx era um jovem hegueliano?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T175438Z" creationid="daniel" creationdate="20221218T175438Z">
+        <seg>Remember Marx was a Young Hegelian?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Luta de classes.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T005633Z" creationid="sisadminhlr" creationdate="20221219T005633Z">
+        <seg>Class struggle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Materialismo é a concepção de que a produção material é
+a base da nossa ordem social.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T223231Z" creationid="daniel" creationdate="20221218T220138Z">
+        <seg>Materialism is the understanding that material production
+is the basis for our social structure. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Materialismo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T192401Z" creationid="daniel" creationdate="20221218T192401Z">
+        <seg>Materialism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Na cabeça deles.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T220756Z" creationid="daniel" creationdate="20221218T220756Z">
+        <seg>In their minds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>No que consiste a live de hoje?</seg>
       </tuv>
       <tuv lang="en-US" changeid="sheilagomes" changedate="20221218T211049Z" creationid="sheilagomes" creationdate="20221218T211049Z">
         <seg>What does today's live consist of?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Nossa infraestrutura é produção de alimentos, produção de roupas,
+produção de casas, etc.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T224353Z" creationid="daniel" creationdate="20221218T223240Z">
+        <seg>Our infrastructure is the production of food, of clothing,
+of houses, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Nossas ideias são uma abstração da realidade.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T221328Z" creationid="daniel" creationdate="20221218T221328Z">
+        <seg>But rather our ideas are an abstraction of reality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Não adianta nada a gente conceber uma sociedade na nossa cabeça e tentar
+aplicar à realidade sem levar em consideração a realidade em si.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T014051Z" creationid="daniel" creationdate="20221218T221819Z">
+        <seg>There's no use in designing a society in our heads and trying
+to apply it to reality while ignoring reality itself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Não existe organização social sem respaldo material, sem substrato material.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T221707Z" creationid="daniel" creationdate="20221218T221707Z">
+        <seg>There's no social organization without a material backing, a material substrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Não só a gente tem que pensar em quem fez o que nos rodeia 
+mas isso que nos rodeia é 
+a base para como a gente se organiza socialmente.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T223331Z" creationid="daniel" creationdate="20221218T220150Z">
+        <seg>Not only do we have to think about who made what is around us  
+but what surrounds us is 
+the basis upon which we organize society. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Não só comer, vestir, morar, mas também o que a gente deseja
+consumir como cultura.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T014454Z" creationid="daniel" creationdate="20221218T222630Z">
+        <seg>Not only eating, clothing, housing but also what we desire
+to consume as culture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Não só isso; através da análise material do capitalismo,
+o Marx chega à conclusão de que a gente já tem recursos para marchar em direção a outra sociedade,
+com outras relações sociais.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sheilagomes" changedate="20221220T211310Z" creationid="sheilagomes" creationdate="20221220T211310Z">
+        <seg>Não só isso; através da análise material do capitalismo,
+o Marx chega à conclusão de que a gente já tem recursos para marchar em direção a outra sociedade,
+com outras relações sociais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Não só é possível como, segundo Marx, é altamente provável.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T221001Z" creationid="sisadminhlr" creationdate="20221218T221001Z">
+        <seg>Not only possible. according to Marx, it's very likely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Não é a realidade que é criada pelas nossas ideias.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T221254Z" creationid="daniel" creationdate="20221218T221254Z">
+        <seg>It's not reality that is created by our thoughts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Não, não significa que as mesmas bases materiais
+vão produzir a mesma superestrutura, 
+mas que a superestrutura é dependente das bases materiais.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T015201Z" creationid="daniel" creationdate="20221218T224217Z">
+        <seg>No, it doesn't mean that the same material basis
+will always give rise to the same superstructure,
+but that the superstructure is dependent on the material basis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Não.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T231022Z" creationid="daniel" creationdate="20221218T231003Z">
+        <seg>No.(That's not the case)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Nós estamos rodeados de uma quantidade imensa de trabalho humano.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T193445Z" creationid="daniel" creationdate="20221218T193445Z">
+        <seg>We are surrounded by an immense amount of human labor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Nós falamos que a dialética se contrapõe à metafísica.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T181733Z" creationid="daniel" creationdate="20221218T181733Z">
+        <seg>We've said that dialectics opposes metaphysics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O Hegel era um Idealista.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T194227Z" creationid="daniel" creationdate="20221218T194227Z">
+        <seg>Hegel was an idealist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O Hegel tem uma visão teológica da filosofia.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T223735Z" creationid="daniel" creationdate="20221218T211547Z">
+        <seg>Hegel's philosophy has a theological outlook.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O Marx coloca essa ideia de cabeça para baixo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T221232Z" creationid="daniel" creationdate="20221218T221232Z">
+        <seg>Marx puts this idea upside-down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O Marx diz: não, a mudança vai vir de baixo para cima.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T012950Z" creationid="sisadminhlr" creationdate="20221219T012950Z">
+        <seg>Marx said otherwise: it would come bottom up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O Marx foi muito influenciado pelo Hegel.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T175743Z" creationid="daniel" creationdate="20221218T175743Z">
+        <seg>Marx was heavily influenced by Hegel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O Marx incorporou a dialética do Hegel.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T193913Z" creationid="daniel" creationdate="20221218T193913Z">
+        <seg>Marx incorporated Hegel's dialectics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O capitalismo não produz para satisfazer nossas necessidades, ele produz para satisfazer o capital.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220157Z" creationid="sisadminhlr" creationdate="20221218T220157Z">
+        <seg>capitalism does not produce in order to satisfy our needs, it does to sate the needs of the capital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O capitalismo trouxe uma produtividade para a humanidade que nunca tinha sido vista.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T214637Z" creationid="sisadminhlr" creationdate="20221218T174652Z">
+        <seg>it brought an unprecedented level of productivity, unknown to humanity by then.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O materialismo é o inverso disso, tá?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T221119Z" creationid="daniel" creationdate="20221218T221112Z">
+        <seg>Materialism is the opposite of that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O modo de produção capitalista conseguiu trazer um problema novo: excesso de produção.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T215754Z" creationid="sisadminhlr" creationdate="20221218T215754Z">
+        <seg>the capitalist mode of production brought a new problem: excess of production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O pilar filosófico do marxismo se constitui 
+como uma crítica a utopismos e idealismos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T221225Z" creationid="daniel" creationdate="20221218T214825Z">
+        <seg>Marxism's philosophical pillar is constituted 
+as a critique of utopianisms and idealisms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O positivo e o negativo se excluem em absoluto”.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215436Z" creationid="daniel" creationdate="20221218T215436Z">
+        <seg>Positive and negative absolutely exclude one another".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O proletário pertence à classe que irá conduzir a revolução, diferente dos utópicos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T012241Z" creationid="sisadminhlr" creationdate="20221219T012241Z">
+        <seg>The proletariat belongs to the class that will conduct revolution, unlike the Utopians.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O proletário se torna sujeito revolucionário.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T012006Z" creationid="sisadminhlr" creationdate="20221219T012006Z">
+        <seg>The proletariat becomes the revolution's Subject. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que a gente faz?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T205440Z" creationid="sisadminhlr" creationdate="20221218T173830Z">
+        <seg>so, what do we do with this?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que a gente pode tirar dessa observação que o Marx faz?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T202954Z" creationid="sisadminhlr" creationdate="20221218T202954Z">
+        <seg>what can we take out of this observations of Marx?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que nós somos depende de como a gente come, onde a gente mora, 
+o que a gente veste, como a gente veste.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T014654Z" creationid="daniel" creationdate="20221218T223030Z">
+        <seg>What we are depends on how we eat, where we live,
+what we wear, how we wear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que nós somos, gente, depende de como a gente produz a nossa existência.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T222959Z" creationid="daniel" creationdate="20221218T222959Z">
+        <seg>What we are depends on how we produce our existence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que os indivíduos são depende, portanto, das condições materiais de sua produção.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T222910Z" creationid="daniel" creationdate="20221218T222910Z">
+        <seg>The nature of individuals thus depends on the material conditions determining their production."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que que tem na superestrutura?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T223518Z" creationid="daniel" creationdate="20221218T223518Z">
+        <seg>What is there in the superstructure?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que é importante disso?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T205941Z" creationid="sisadminhlr" creationdate="20221218T203321Z">
+        <seg>Whats so relevant about that?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que é o materialismo histórico, principalmente a parte de materialismo?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T193549Z" creationid="daniel" creationdate="20221218T193549Z">
+        <seg>What is historical materialism, especially the materialism part?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O quão pouco a gente pensa sobre quem fez os objetos que nos rodeiam.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T193241Z" creationid="daniel" creationdate="20221218T193241Z">
+        <seg>How little we think about who made the objects that surround us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O senhor e o escravo não são categorias isoladas fixas e imóveis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T183528Z" creationid="daniel" creationdate="20221218T183528Z">
+        <seg>Master and slave aren't fixed, isolated, unchanging categories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O termo surge em contraposição ao socialismo utópico.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T011301Z" creationid="sisadminhlr" creationdate="20221219T011301Z">
+        <seg>This expression appeared to contrast with Utopic Socialism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Obsoletas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220811Z" creationid="sisadminhlr" creationdate="20221218T220811Z">
+        <seg>OBSOLETE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Olha em volta, seja aonde você estiver.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T192447Z" creationid="daniel" creationdate="20221218T192447Z">
+        <seg>Look around you, wherever you are.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Olha em volta.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T192456Z" creationid="daniel" creationdate="20221218T192451Z">
+        <seg>Look around.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Olha para tudo que tá te rodeando.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T193331Z" creationid="daniel" creationdate="20221218T192513Z">
+        <seg>Look at everything that surrounds you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Onde que entra a parte histórica?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T225123Z" creationid="daniel" creationdate="20221218T225123Z">
+        <seg>Where does the historical part come in?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Os liberais dizem que as pessoas começam a demandar mais liberdade, 
+e aí isso impulsionou a revolução.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T224936Z" creationid="daniel" creationdate="20221218T231001Z">
+        <seg>The liberals say people started demanding more freedom 
+and that propelled the revolution forward.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Os utópicos acreditavam que a classe trabalhadora era incapaz de conduzir qualquer mudança.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T012439Z" creationid="sisadminhlr" creationdate="20221219T012439Z">
+        <seg>Utopians believed that the working class were unable to lead any change.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Os utópicos, de que a gente falou anteriormente, não tinham perspectiva de classe nenhuma.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T011521Z" creationid="sisadminhlr" creationdate="20221219T010357Z">
+        <seg>The Utopians, which we talked about before, had no perspective of any class.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Ou seja, as relações de produção no capitalismo tolhem a nossa capacidade produtiva.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220450Z" creationid="sisadminhlr" creationdate="20221218T220450Z">
+        <seg>That is to say/meaning, the capitalist means of production jeopardize our productive capability.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Ou seja, nossa cultura, nossa religião, nossa moral estão em cima.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T223604Z" creationid="daniel" creationdate="20221218T223604Z">
+        <seg>That is, our culture, our religion, our morals, are above.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Para Hegel, o processo de pensamento, que ele, 
+sob o nome de Ideia (com ‘i’ maiúsculo), chega mesmo a transformar 
+num sujeito autônomo,
+é o demiurgo (para quem não sabe, demiurgo é divindade) do processo efetivo, 
+o qual constitui apenas a manifestação externa do primeiro.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T223540Z" creationid="daniel" creationdate="20221218T220310Z">
+        <seg>To Hegel, the life-process of the human brain, i.e., the process of thinking, 
+which, under the name of “the Idea,” he even transforms 
+into an independent subject,
+is the demiurgos (for those who don't know, demiurgos means deity) of the real world,  
+and the real world is only the external, phenomenal form of “the Idea.” </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Para a gente entender dialética, 
+vale a pena a gente entender o que que é metafísica
+porque uma coisa esclarece a outra.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215335Z" creationid="daniel" creationdate="20221218T215335Z">
+        <seg>In order for us to understand dialectics 
+it's worth it to understand what metaphysics is
+because one thing makes the other clearer. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Para ele e para o Marx, 
+a dialética era muito mais adequada para compreender
+não só os fenômenos das ciências naturais, como da sociedade.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215826Z" creationid="daniel" creationdate="20221218T215826Z">
+        <seg>For him and for Marx 
+dialectics was much more adequate for understanding
+not only natural sciences' phenomena, but also society's. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Para ele, uma coisa existe ou não existe; um objeto não pode ser ao mesmo tempo o que é e outro diferente.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T181940Z" creationid="daniel" creationdate="20221218T181940Z">
+        <seg>For him, a thing either exists or does not exist; a thing cannot at the same time be itself and something else.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Para ficar mais claro, 
+não só natureza, natureza, como que nós produzimos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T014328Z" creationid="daniel" creationdate="20221218T222045Z">
+        <seg>To make it clearer, 
+it's not only nature, but also the way we produce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Para mim, ao contrário, o ideal não é mais do que o material, 
+transposto e traduzido na cabeça do homem”.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T220318Z" creationid="daniel" creationdate="20221218T220318Z">
+        <seg>With me, on the contrary, the ideal is nothing else than the material world 
+reflected by the human mind, and translated into forms of thought". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Pela primeira vez na história, a sociedade humana teve o problema inverso do que ela vinha tendo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T215219Z" creationid="sisadminhlr" creationdate="20221218T215219Z">
+        <seg>By the first time in history, human society was dealing with the inverse of the it's usual problem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Pensa só em antíteses, sem meio-termo possível; para ele, das duas uma: sim, sim; não, não; o que for além disso, sobra.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T181925Z" creationid="daniel" creationdate="20221218T181925Z">
+        <seg>He thinks in absolutely irreconcilable antitheses. His communication is 'yea, yea; nay, nay'; for whatsoever is more than these cometh of evil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Pois bem, o capitalismo desenvolveu as nossas forças produtivas de maneira inédita.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T174342Z" creationid="sisadminhlr" creationdate="20221218T174342Z">
+        <seg>very well, capitalism has developed our productive forces at a novel way .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Por quê?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T222435Z" creationid="sisadminhlr" creationdate="20221218T222435Z">
+        <seg>why thought?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Portanto, cada um desses dois objetos, tanto o trigo como o ferro, 
+deve poder reduzir-se independentemente um do outro, àquela terceira coisa, 
+que é a medida comum de ambos”.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sheilagomes" changedate="20221220T211120Z" creationid="sheilagomes" creationdate="20221220T211120Z">
+        <seg>Portanto, cada um desses dois objetos, tanto o trigo como o ferro, 
+deve poder reduzir-se independentemente um do outro, àquela terceira coisa, 
+que é a medida comum de ambos”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Precisava haver uma revolução do pensamento das pessoas, 
+daí a partir do pensamento da razão, a gente transformar a realidade.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T223946Z" creationid="daniel" creationdate="20221218T220442Z">
+        <seg>There needed to be a revolution in people's thought 
+and only then from reason and thought, we would transform reality. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Primeiro a gente entra em contato com a realidade 
+e depois a gente fórmula as nossas ideias, e não contrário.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T014026Z" creationid="daniel" creationdate="20221218T221358Z">
+        <seg>First we get into contact with reality
+and then we formulate ideas, not the contrary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Primeiro de tudo, a dialética hegeliana se contrapunha a outro método filosófico que é a metafísica, que é o método filosófico que era dominante até Hegel.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215317Z" creationid="daniel" creationdate="20221218T215317Z">
+        <seg>First of all, Hegelian dialectics was opposed to another philosophical method called metaphysics, which was the dominant philosophical method up to Hegel. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Principalmente a respeito de uma coisa chamada dialética.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T180313Z" creationid="daniel" creationdate="20221218T180313Z">
+        <seg>Mainly regarding a thing called dialectics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Pro Hegel, a realidade é uma manifestação das ideias humanas, 
+é uma manifestação do pensamento humano.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T223645Z" creationid="daniel" creationdate="20221218T220327Z">
+        <seg>For Hegel, reality is a manifestation of human ideas, 
+a manifestation of human thought. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Quais foram as mãos que tiraram essas metais do veio da terra?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T223113Z" creationid="daniel" creationdate="20221218T193108Z">
+        <seg>Whose hands extracted them from the veins of the earth?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Que a mudança teria que vir de cima para baixo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T012539Z" creationid="sisadminhlr" creationdate="20221219T012539Z">
+        <seg>That any change would come from top-down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Quem fabricou?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T192651Z" creationid="daniel" creationdate="20221218T192651Z">
+        <seg>Who manufactured them?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Se essa produção não vira capital, ela é descartada.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T220245Z" creationid="sisadminhlr" creationdate="20221218T220245Z">
+        <seg>If production doesn't become capital it is discarded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Se montão em cima de uma base material.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T223643Z" creationid="daniel" creationdate="20221218T223643Z">
+        <seg>They are built upon a material basis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Se o sofá tem peças de metal, quem minerou os metais?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T192821Z" creationid="daniel" creationdate="20221218T192811Z">
+        <seg>If the couch has metal parts, who mined the metals?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Se tem uma cadeira onde você tá, quem fabricou essa cadeira?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T192710Z" creationid="daniel" creationdate="20221218T192710Z">
+        <seg>If there's a chair where you are, who manufactured it?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Segundo Engels, quanto mais detalhadas eram essas sociedades, 
+mais distantes elas eram da sociedade real.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T224036Z" creationid="daniel" creationdate="20221218T220848Z">
+        <seg>According to Engels, the more detailed these societies were, the further they drifted from reality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Sempre a classe dominante estará acima da classe dominada.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T010233Z" creationid="sisadminhlr" creationdate="20221219T010233Z">
+        <seg>If there is an exploited class, there will be a exploiter class above it/  the dominant class will always stand atop the dominated one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Sempre existiram exploradores e explorados, gente?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T183328Z" creationid="sisadminhlr" creationdate="20221218T183328Z">
+        <seg>guys, there where always exploiters and the exploited?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Sempre.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T010252Z" creationid="sisadminhlr" creationdate="20221219T010252Z">
+        <seg>Every time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Significa que toda vez que a gente produzir comida do mesmo jeito vai
+surgir a mesma religião?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T015146Z" creationid="daniel" creationdate="20221218T224125Z">
+        <seg>Does that mean that every time we produce food in the same way
+the same religion will emerge?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Sob essa infraestrutura, se ergue uma ordem social, se ergue em cima dela.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T231653Z" creationid="daniel" creationdate="20221218T223426Z">
+        <seg>A social structure arises over this infrastructure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Suas categorias se movem ao longo da história, 
+mas eu não vou entrar muito na dialética do senhor e do escravo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215741Z" creationid="daniel" creationdate="20221218T215741Z">
+        <seg>These categories change throughout History 
+but I wont get too much into the master-slave dialectic. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>São essas contradições que vão ser objeto da nossa próxima análise.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T181744Z" creationid="sisadminhlr" creationdate="20221218T181342Z">
+        <seg>those are the contradictions that will be our target in this next analysis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Só que a gente não percebe.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T193455Z" creationid="daniel" creationdate="20221218T193455Z">
+        <seg>But we don't realize it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Só que ela não existe sem essa realidade.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T224430Z" creationid="daniel" creationdate="20221218T224430Z">
+        <seg>But it doesn't exist without that reality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Só que eu vou tentar resumir.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T180440Z" creationid="daniel" creationdate="20221218T180440Z">
+        <seg>but I'll try and summarize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Só que não só isso, nossa produção também satisfaz
+os nossos desejos culturais e intelectuais.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T014420Z" creationid="daniel" creationdate="20221218T222532Z">
+        <seg>But not only that, our production also satisfies
+our cultural and intellectual wants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Só que o materialismo ele surge como uma crítica ao Hegel.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T204030Z" creationid="daniel" creationdate="20221218T193934Z">
+        <seg>But materialism arises from a critique of Hegel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Só que, isso é um processo mecânico?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T224018Z" creationid="daniel" creationdate="20221218T224018Z">
+        <seg>Is this a mechanical process though?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Tem um sofá, quem fabricou esse sofá?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T223045Z" creationid="daniel" creationdate="20221218T192728Z">
+        <seg>If there's a couch, who made that couch?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Toda a revolução tem uma base material, tem um substrato material.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T231221Z" creationid="daniel" creationdate="20221218T231221Z">
+        <seg>Every revolution has a material basis, a material substrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Um exemplo que o Engels usa de dialética nesse livro aqui que eu citei.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T191305Z" creationid="daniel" creationdate="20221218T191305Z">
+        <seg>An example of dialectics Engels gives in this book I quoted</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Um palavrão filosófico, 
+e por isso que eu falei que talvez eu tenha escolhido começar pelo mais difícil, mas eu peço que vocês deem uma chance, tá?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T215217Z" creationid="daniel" creationdate="20221218T215217Z">
+        <seg>A philosophical curse word, 
+and that's why I said that I might have chosen to start by the most complicated part, but I beg you give it a chance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Uma coisa depende da outra.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T223954Z" creationid="daniel" creationdate="20221218T223954Z">
+        <seg>One thing depends on the other.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Utopia para quem não sabe, é o não-lugar.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T221024Z" creationid="daniel" creationdate="20221218T221024Z">
+        <seg>For those who don't know, utopia is a 'non--place'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Vamos agora a outra parte, era materialismo histórico-dialético.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T192348Z" creationid="daniel" creationdate="20221218T192348Z">
+        <seg>Let's go to the other part then, it was dialectical and historical materialism</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Vamos falar de materialismo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T192356Z" creationid="daniel" creationdate="20221218T192356Z">
+        <seg>Let's talk materialism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Vamos investigar isso.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T183415Z" creationid="sisadminhlr" creationdate="20221218T183415Z">
+        <seg>Lets dig into that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Vamos voltar um pouquinho para o Hegel agora.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T193858Z" creationid="daniel" creationdate="20221218T193858Z">
+        <seg>Let's go back to Hegel for a bit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Vou explicar, calma que eu sei que é complicado, tá?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T210912Z" creationid="daniel" creationdate="20221218T210040Z">
+        <seg>Don't worry, I know it's complicated but I'll explain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Vê se tem uma mesa perto, um computador, um celular,
+uma cadeira, qualquer coisa.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T220018Z" creationid="daniel" creationdate="20221218T220018Z">
+        <seg>Look if there's a table nearby, a computer, a cellphone,
+a chair, anything. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>a roda da história vai girando 
+conforme a gente vai satisfazendo nossas necessidades.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T015747Z" creationid="daniel" creationdate="20221218T225829Z">
+        <seg>The wheel of History keeps on turning
+ as we satisfy our needs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>É a teoria evolutiva do Darwin.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T191344Z" creationid="daniel" creationdate="20221218T191344Z">
+        <seg>is Darwin's theory of evolution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>É falacioso.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T005956Z" creationid="sisadminhlr" creationdate="20221219T005956Z">
+        <seg>it's fallacious </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>É isso.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T185149Z" creationid="daniel" creationdate="20221218T185144Z">
+        <seg>That's it then.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>É o que tá acima da infraestrutura.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T223505Z" creationid="daniel" creationdate="20221218T223505Z">
+        <seg>It's what is above the infrastructure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>É uma citação do Marx aqui e do Engels, né?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221218T222656Z" creationid="daniel" creationdate="20221218T222656Z">
+        <seg>This quote is by Marx and Engels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>É uma fachada.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T010032Z" creationid="sisadminhlr" creationdate="20221219T010032Z">
+        <seg>It's a front.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>“A concepção materialista da história parte da tese de que a produção, 
+e com ela a troca dos produtos é a base de toda ordem social; 
+de que em todas as sociedades que desfilam pela história,
+a distribuição dos produtos e juntamente com ela 
+a divisão social dos homens em classes ou camadas, 
+é determinada pelo que a sociedade produz e como produz
+e pelo modo de trocar os seus produtos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T020505Z" creationid="daniel" creationdate="20221218T230709Z">
+        <seg>"The materialist conception of history starts from the proposition that the production of the means to support human life and,
+ next to production, the exchange of things produced, is the basis of all social structure;
+ that in every society that has appeared in history,
+ the manner in which wealth is distributed and
+ society divided into classes or orders
+ is dependent upon what is produced, how it is produced,
+ and how the products are exchanged. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>“O que eles {os indivíduos} são coincide com sua produção, 
+tanto com que produzem quanto com o modo que produzem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="daniel" changedate="20221219T014550Z" creationid="daniel" creationdate="20221218T222836Z">
+        <seg>"What they {the individuals} are, therefore, coincides with their production,
+both with what they produce and with how they produce.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
