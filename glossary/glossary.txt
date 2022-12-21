@@ -20,3 +20,6 @@ As Três Fontes e as Três Partes Constitutivas do Marxismo	The Three Sources an
 Princípios Básicos do Comunismo	The Principles of Communism
 revoluções burguesas	bourgeois revolutions
 mercadoria	commodity	criador por Clemens
+valor	value	criado por Clemens
+trabalho	Labour	criado por Clemens
+gente	folks	criado por Clemens: se for tipo interjeição, "e ai, gente, o que vcs acham?", "So, folks, what do you think?"

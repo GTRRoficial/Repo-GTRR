@@ -174,8 +174,8 @@ throughout history, social classes are quite a lot different.</seg>
       <tuv lang="pt-BR">
         <seg>A pergunta que tem que ser respondida é: qual é o Valor?</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sheilagomes" changedate="20221220T204530Z" creationid="sheilagomes" creationdate="20221220T204530Z">
-        <seg>A pergunta que tem que ser respondida é: qual é o Valor?</seg>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T044601Z" creationid="sheilagomes" creationdate="20221220T204530Z">
+        <seg>So the question that comes up is: what is Value?</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,6 +286,14 @@ e reproduzir a vida se transforma.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Carro.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T051851Z" creationid="clemens" creationdate="20221221T051851Z">
+        <seg>Car.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Como a ordem social de tal sociedade se conecta
 com como essa sociedade produzia?</seg>
       </tuv>
@@ -298,8 +306,8 @@ com como essa sociedade produzia?</seg>
       <tuv lang="pt-BR">
         <seg>Como esse Valor é determinado?</seg>
       </tuv>
-      <tuv lang="en-US" changeid="clemens" changedate="20221221T041317Z" creationid="clemens" creationdate="20221221T041317Z">
-        <seg>[fuzzy]Value is true</seg>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T044923Z" creationid="clemens" creationdate="20221221T041317Z">
+        <seg>How then is Value determined?</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,6 +734,15 @@ with historical change, on the very long term. </seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Então, eu vou começar com uma citação que me fez entender
+Valor de uma vez por todas, tá?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T045129Z" creationid="clemens" creationdate="20221221T045129Z">
+        <seg>Ok, so I'll begin with a quote that made me understand Value once and for all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Então, materialismo histórico-dialético, a gente vai começar
 conversando um pouco sobre dialética.</seg>
       </tuv>
@@ -873,8 +890,16 @@ mainly a critique of Hegel's philosophy. </seg>
       <tuv lang="pt-BR">
         <seg>Essa mercadoria, ela tem uma coisa chamada Valor.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="clemens" changedate="20221221T043454Z" creationid="clemens" creationdate="20221221T041239Z">
-        <seg>commodities[fuzzy]Change view option named %1 to value %2.</seg>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T044415Z" creationid="clemens" creationdate="20221221T041239Z">
+        <seg>This commodity has something called Value. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Essa terceira coisa é o Valor.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T050109Z" creationid="clemens" creationdate="20221221T050109Z">
+        <seg>And this third thing is the Value.</seg>
       </tuv>
     </tu>
     <tu>
@@ -899,6 +924,14 @@ mainly a critique of Hegel's philosophy. </seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T221532Z" creationid="daniel" creationdate="20221218T221532Z">
         <seg>These two things are inseparable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Essas mercadorias têm Valor.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T050432Z" creationid="clemens" creationdate="20221221T050432Z">
+        <seg>These commodities have Value.</seg>
       </tuv>
     </tu>
     <tu>
@@ -966,6 +999,14 @@ which is influenced by Hegel. </seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Eu nunca mais esqueci essa citação.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T045903Z" creationid="clemens" creationdate="20221221T045903Z">
+        <seg>I've never forgotten this quote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Eu sei que é difícil, mas dá uma chance e pelo menos fica
 familiarizado com esse vocabulário: materialismo, base material, 
 infraestrutura, superestrutura, dialética, etc.</seg>
@@ -996,6 +1037,14 @@ porque essa parte é difícil mesmo, tá?</seg>
         <seg>I'll avoid reading too many quotations 
 but I think these ones are helpful
 because this part is quite difficult. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Fazer um carro da muito mais trabalho para fazer do que um copo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T052047Z" creationid="clemens" creationdate="20221221T052047Z">
+        <seg>Making a car requires way more labour than making a glass.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1079,6 +1128,15 @@ loose sight of the material basis of reality.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Isso quer dizer que se eu tiver uma fábrica de copo 
+e eu demorar o tempo que demora para fazer um carro para fazer esse copo, significa que o copo vai valer muito?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T052408Z" creationid="clemens" creationdate="20221221T052408Z">
+        <seg>This means that if I had a glass factory, and it took me the same amount of time need to make a car to make this glass, the glass would get more expensive?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Isso tudo é produzido para satisfazer nossas necessidades materiais.</seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T222427Z" creationid="daniel" creationdate="20221218T222427Z">
@@ -1137,10 +1195,27 @@ loose sight of the material basis of reality.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Lembra que a gente falou que a mercadoria é centro das relações sociais?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T044240Z" creationid="clemens" creationdate="20221221T044240Z">
+        <seg>Remember that the commodity is the center of our social relationships?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Lembra que eu falei para a gente olhar em volta?</seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T222333Z" creationid="daniel" creationdate="20221218T222328Z">
         <seg>Remember I told you to look around?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Lembra que eu falei para vocês olharem em volta 
+e pensarem em quem fez o que vocês têm?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T050509Z" creationid="clemens" creationdate="20221221T050509Z">
+        <seg>Remember when I told you to look around and think about who made the things you have?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1161,10 +1236,27 @@ loose sight of the material basis of reality.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Logo, o carro tem um valor muito superior ao do copo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T052143Z" creationid="clemens" creationdate="20221221T052143Z">
+        <seg>Therefore, a car has a much more Value than a glass.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Luta de classes.</seg>
       </tuv>
       <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T005633Z" creationid="sisadminhlr" creationdate="20221219T005633Z">
         <seg>Class struggle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Mas, eu vou começar com a citação, 
+e depois a gente vai descrever o Valor, e não contrário.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T045303Z" creationid="clemens" creationdate="20221221T045303Z">
+        <seg>But I'll start with the quote and then we are gonna describe Value, not the contrary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1309,10 +1401,18 @@ but that the superstructure is dependent on the material basis.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Não, não.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T051055Z" creationid="clemens" creationdate="20221221T051055Z">
+        <seg>No, no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Não.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="daniel" changedate="20221218T231022Z" creationid="daniel" creationdate="20221218T231003Z">
-        <seg>No.(That's not the case)</seg>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T051118Z" creationid="daniel" creationdate="20221218T231003Z">
+        <seg>No.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1329,6 +1429,14 @@ but that the superstructure is dependent on the material basis.</seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T181733Z" creationid="daniel" creationdate="20221218T181733Z">
         <seg>We've said that dialectics opposes metaphysics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Nós temos mercadorias na sociedade, nós compramos nossas coisas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T050402Z" creationid="clemens" creationdate="20221221T050402Z">
+        <seg>We have commodities in society, we buy our things.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1353,6 +1461,14 @@ but that the superstructure is dependent on the material basis.</seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T221232Z" creationid="daniel" creationdate="20221218T221232Z">
         <seg>Marx puts this idea upside-down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O Marx diz na introdução do O Capital que o primeiro capítulo é o mais difícil que é o que ele descreve o Valor, inclusive.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T050332Z" creationid="clemens" creationdate="20221221T050332Z">
+        <seg>Marx says in the Introduction to Capital that the first chapter was the most complicated, and it is , in fact, the one in which he describes Value.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1387,6 +1503,14 @@ observa que nem sempre houve propriedade privada.</seg>
       <tuv lang="en-US" changeid="sheilagomes" changedate="20221220T213104Z" creationid="sheilagomes" creationdate="20221220T213104Z">
         <seg>Marx, through the method (dialectical and historical materialism),
 come to the reasoning that there has not always been private property.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O Valor Talvez seja uma das categorias mais difíceis da Economia política, inclusive reconhecida pelo próprio Marx.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T050208Z" creationid="clemens" creationdate="20221221T050208Z">
+        <seg>Value is maybe one of the most complicated concepts of Political Economy, even Marx recognized that.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1517,6 +1641,14 @@ what we wear, how we wear.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>O que tem mais valor, gente, um copo ou um carro?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T051842Z" creationid="clemens" creationdate="20221221T051842Z">
+        <seg>Folks, what has more Value, a glass or a car?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>O que é importante disso?</seg>
       </tuv>
       <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T205941Z" creationid="sisadminhlr" creationdate="20221218T203321Z">
@@ -1573,6 +1705,22 @@ what is that Marx mean here?</seg>
       </tuv>
       <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T011301Z" creationid="sisadminhlr" creationdate="20221219T011301Z">
         <seg>This expression appeared to contrast with Utopic Socialism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O trabalho socialmente necessário para confecção dessa mercadoria.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T051623Z" creationid="clemens" creationdate="20221221T051623Z">
+        <seg>The labour socially necessary for the confection of this commodity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O trabalho, gente, é uma substância social.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T050851Z" creationid="clemens" creationdate="20221221T050851Z">
+        <seg>Labour, folks, is a social substance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1773,8 +1921,17 @@ there are no exploiter without exploited, this has always been the case, right?<
       <tuv lang="pt-BR">
         <seg>Por quê?</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T222435Z" creationid="sisadminhlr" creationdate="20221218T222435Z">
-        <seg>why thought?</seg>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T051858Z" creationid="sisadminhlr" creationdate="20221218T222435Z">
+        <seg>Why?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Porque a quantidade de trabalho necessário para fazer
+um carro é muito maior.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T051943Z" creationid="clemens" creationdate="20221221T051943Z">
+        <seg>Because the amount of labour needed to make a car is way bigger.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1783,10 +1940,8 @@ there are no exploiter without exploited, this has always been the case, right?<
 deve poder reduzir-se independentemente um do outro, àquela terceira coisa, 
 que é a medida comum de ambos”.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sheilagomes" changedate="20221220T211120Z" creationid="sheilagomes" creationdate="20221220T211120Z">
-        <seg>Portanto, cada um desses dois objetos, tanto o trigo como o ferro, 
-deve poder reduzir-se independentemente um do outro, àquela terceira coisa, 
-que é a medida comum de ambos”.</seg>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T045820Z" creationid="sheilagomes" creationdate="20221220T211120Z">
+        <seg>Either of them, the wheat orthe iron, must, therefore, independently of the other, be reducible to this third thing which is their common measure.".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1845,6 +2000,16 @@ a manifestation of human thought. </seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Quando uma quantidade de trigo é igual uma quantidade de ferro, 
+não significa que uma igual ao outro,
+mas que os dois são iguais a uma terceira coisa.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T050942Z" creationid="clemens" creationdate="20221221T050045Z">
+        <seg>If a certain amount of wheat is equal to certain amount of iron, it does not mean that one is the same as the other, but that they are equal to a third thing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Que a mudança teria que vir de cima para baixo.</seg>
       </tuv>
       <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T012539Z" creationid="sisadminhlr" creationdate="20221219T012539Z">
@@ -1857,6 +2022,14 @@ a manifestation of human thought. </seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T192651Z" creationid="daniel" creationdate="20221218T192651Z">
         <seg>Who manufactured them?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Sabe qual é a substância comum de tudo que vocês têm?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T050647Z" creationid="clemens" creationdate="20221221T050647Z">
+        <seg>Do you know what is this substance common to all the things you have?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2047,6 +2220,38 @@ na margem da sociedade.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Toda mercadoria tem uma quantidade de trabalho cristalizado nela.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T051647Z" creationid="clemens" creationdate="20221221T050925Z">
+        <seg>Every commodity has in it some amount of crystallized labour. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Todas as vezes que você acha que você não tá entendendo o que é Valor, certifique-se de que você não tá confundindo com preço, tá?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T051317Z" creationid="clemens" creationdate="20221221T051317Z">
+        <seg>Every time you think you're not understanding what Value is, be sure you're not  confusing it with price, ok?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Todos os objetos que vocês têm, todos, sem exceção, tem uma substância comum.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T050603Z" creationid="clemens" creationdate="20221221T050603Z">
+        <seg>All the objects you possess, all of them, without exception, has one substance in common.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Trabalho.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T050808Z" creationid="clemens" creationdate="20221221T050808Z">
+        <seg>Labour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Um exemplo que o Engels usa de dialética nesse livro aqui que eu citei.</seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T191305Z" creationid="daniel" creationdate="20221218T191305Z">
@@ -2093,6 +2298,22 @@ and that's why I said that I might have chosen to start by the most complicated 
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Valor é preço, chat?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T051110Z" creationid="clemens" creationdate="20221221T051110Z">
+        <seg>Is price Value, chat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Valor é preço?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T051048Z" creationid="clemens" creationdate="20221221T051048Z">
+        <seg>Is value the same thing as price?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Vamos agora a outra parte, era materialismo histórico-dialético.</seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T192348Z" creationid="daniel" creationdate="20221218T192348Z">
@@ -2113,6 +2334,22 @@ and that's why I said that I might have chosen to start by the most complicated 
       </tuv>
       <tuv lang="en-US" changeid="sisadminhlr" changedate="20221218T183415Z" creationid="sisadminhlr" creationdate="20221218T183415Z">
         <seg>Lets dig into that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Vamos lá, Valor.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T050122Z" creationid="clemens" creationdate="20221221T050122Z">
+        <seg>Ok, so, Value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Vamos lá, o que determina o valor de uma mercadoria?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T051352Z" creationid="clemens" creationdate="20221221T051352Z">
+        <seg>So, what determines the Value of a commodity? </seg>
       </tuv>
     </tu>
     <tu>
@@ -2227,6 +2464,19 @@ tanto com que produzem quanto com o modo que produzem.</seg>
       <tuv lang="en-US" changeid="daniel" changedate="20221219T014550Z" creationid="daniel" creationdate="20221218T222836Z">
         <seg>"What they {the individuals} are, therefore, coincides with their production,
 both with what they produce and with how they produce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>“…quando digo que um quarter (é uma medida de trigo) se troca por ferro 
+numa determinada proporção ou que o valor de um quarter de trigo
+se expressa numa determinada quantidade de ferro, 
+digo que o valor do trigo ou seu equivalente em ferro são iguais 
+a uma terceira coisa, que não é trigo nem ferro, pois suponho que ambos 
+exprimem a mesma grandeza sob duas formas distintas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T045721Z" creationid="clemens" creationdate="20221221T045721Z">
+        <seg>"...if I say a quarter of wheat exchanges with iron in a certain proportion, or the Value of a quarter  of  wheat  is  expressed  in  a  certain  amount  of  iron, I  say  that  the  Value  of  wheat  and its  equivalent  in  iron  are  equal  to some  third  thing,   which  is  neither  wheat  nor  iron,  because  I suppose them to express the same magnitude in two different shapes.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
