@@ -306,8 +306,8 @@ com como essa sociedade produzia?</seg>
       <tuv lang="pt-BR">
         <seg>Como esse Valor é determinado?</seg>
       </tuv>
-      <tuv lang="en-US" changeid="clemens" changedate="20221221T044923Z" creationid="clemens" creationdate="20221221T041317Z">
-        <seg>How then is Value determined?</seg>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T054518Z" creationid="clemens" creationdate="20221221T041317Z">
+        <seg>How is Value determined?</seg>
       </tuv>
     </tu>
     <tu>
@@ -492,6 +492,14 @@ that would free all of humanity.</seg>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T220408Z" creationid="daniel" creationdate="20221218T220408Z">
         <seg>And human thought in its turn is the manifestation of the original Idea
 (with capital "i") that comes from the deity, from God. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>E o preço?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T054159Z" creationid="clemens" creationdate="20221221T054159Z">
+        <seg>And price?</seg>
       </tuv>
     </tu>
     <tu>
@@ -777,6 +785,14 @@ a satisfação das nossas necessidades.</seg>
       <tuv lang="en-US" changeid="daniel" changedate="20221219T015725Z" creationid="daniel" creationdate="20221218T225548Z">
         <seg>So for Marx and Engels the first historical fact is
  the satisfaction of our needs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então, se valor não é preço, o que é preço?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T054216Z" creationid="clemens" creationdate="20221221T054216Z">
+        <seg>So, if Value is not price, what then is price?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1131,8 +1147,8 @@ loose sight of the material basis of reality.</seg>
         <seg>Isso quer dizer que se eu tiver uma fábrica de copo 
 e eu demorar o tempo que demora para fazer um carro para fazer esse copo, significa que o copo vai valer muito?</seg>
       </tuv>
-      <tuv lang="en-US" changeid="clemens" changedate="20221221T052408Z" creationid="clemens" creationdate="20221221T052408Z">
-        <seg>This means that if I had a glass factory, and it took me the same amount of time need to make a car to make this glass, the glass would get more expensive?</seg>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T054740Z" creationid="clemens" creationdate="20221221T052408Z">
+        <seg>This means that if I had a glass factory, and it took me the same amount of time needed to make a car, to make this glass, the glass would get more expensive?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,8 +1254,8 @@ e pensarem em quem fez o que vocês têm?</seg>
       <tuv lang="pt-BR">
         <seg>Logo, o carro tem um valor muito superior ao do copo.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="clemens" changedate="20221221T052143Z" creationid="clemens" creationdate="20221221T052143Z">
-        <seg>Therefore, a car has a much more Value than a glass.</seg>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T054654Z" creationid="clemens" creationdate="20221221T052143Z">
+        <seg>Therefore, a car has much more Value than a glass.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1591,6 +1607,22 @@ as a critique of utopianisms and idealisms</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>O preço costuma gravitar em torno do valor.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T054452Z" creationid="clemens" creationdate="20221221T054452Z">
+        <seg>Price usually gravitates around value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O preço é a expressão em dinheiro do valor, expressão em dinheiro.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T054408Z" creationid="clemens" creationdate="20221221T054408Z">
+        <seg>Price is the expression of value as money, expression in money.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>O proletário pertence à classe que irá conduzir a revolução, diferente dos utópicos.</seg>
       </tuv>
       <tuv lang="en-US" changeid="sisadminhlr" changedate="20221219T012241Z" creationid="sisadminhlr" creationdate="20221219T012241Z">
@@ -1737,6 +1769,14 @@ what is that Marx mean here?</seg>
       </tuv>
       <tuv lang="en-US" changeid="clemens" changedate="20221221T050851Z" creationid="clemens" creationdate="20221221T050851Z">
         <seg>Labour, folks, is a social substance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O valor é determinado a partir da quantidade de trabalho num certo estado social e determinadas condições de produção de uma sociedade inteira.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T053759Z" creationid="clemens" creationdate="20221221T053759Z">
+        <seg>What determines Value is the amount of labour in a certain social state and under specific productive conditions of an entire society.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1972,8 +2012,8 @@ um carro é muito maior.</seg>
 deve poder reduzir-se independentemente um do outro, àquela terceira coisa, 
 que é a medida comum de ambos”.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="clemens" changedate="20221221T045820Z" creationid="sheilagomes" creationdate="20221220T211120Z">
-        <seg>Either of them, the wheat orthe iron, must, therefore, independently of the other, be reducible to this third thing which is their common measure.".</seg>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T054642Z" creationid="sheilagomes" creationdate="20221220T211120Z">
+        <seg>Either of them, the wheat or the iron, must, therefore, independently of the other, be reducible to this third thing which is their common measure.".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2426,6 +2466,15 @@ conforme a gente vai satisfazendo nossas necessidades.</seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T191344Z" creationid="daniel" creationdate="20221218T191344Z">
         <seg>is Darwin's theory of evolution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>É com quanto trabalho uma sociedade inteira consegue produzir um copo, 
+e não como você, indivíduo, consegue produzir o copo, beleza?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T054813Z" creationid="clemens" creationdate="20221221T054152Z">
+        <seg>It's how much labour an entire society needs to produce a glass, and not how much you, an individual, needs to produce a glass, ok?.</seg>
       </tuv>
     </tu>
     <tu>
