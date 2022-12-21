@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="pt-BR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="pt-BR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -292,6 +292,14 @@ com como essa sociedade produzia?</seg>
       <tuv lang="en-US" changeid="daniel" changedate="20221219T015945Z" creationid="daniel" creationdate="20221218T230201Z">
         <seg>How does the social structure of said society relate
  to the way this society produces?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Como esse Valor é determinado?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T041317Z" creationid="clemens" creationdate="20221221T041317Z">
+        <seg>[fuzzy]Value is true</seg>
       </tuv>
     </tu>
     <tu>
@@ -799,8 +807,8 @@ desaba sobre a sociedade - a epidemia da superprodução.</seg>
         <seg>Então, vamos lá, vamos para uma categoria que é difícil, 
 mas imprescindível para se compreender a Crítica da economia política do Marx.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="clemens" changedate="20221219T171800Z" creationid="clemens" creationdate="20221219T165726Z">
-        <seg>So, let'go to a subject that is a bit more complicated, but  </seg>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T043959Z" creationid="clemens" creationdate="20221219T165726Z">
+        <seg>So, let'go to a subject that is a bit more complicated, but fundamental to our understanding of Marx's critique of Political Economy.    </seg>
       </tuv>
     </tu>
     <tu>
@@ -859,6 +867,14 @@ principalmente numa crítica à filosofia do Hegel.</seg>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T220211Z" creationid="daniel" creationdate="20221218T220211Z">
         <seg>And this critique of idealism is 
 mainly a critique of Hegel's philosophy. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Essa mercadoria, ela tem uma coisa chamada Valor.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T044415Z" creationid="clemens" creationdate="20221221T041239Z">
+        <seg>This commodity has something called Value. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1117,6 +1133,14 @@ loose sight of the material basis of reality.</seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T224515Z" creationid="daniel" creationdate="20221218T224515Z">
         <seg>Remember we said dialectics was important?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Lembra que a gente falou que a mercadoria é centro das relações sociais?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="clemens" changedate="20221221T044240Z" creationid="clemens" creationdate="20221221T044240Z">
+        <seg>Remember that the commodity is the center of our social relationships?</seg>
       </tuv>
     </tu>
     <tu>

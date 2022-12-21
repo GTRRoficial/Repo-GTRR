@@ -1,6 +1,6 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 materialismo histórico-dialético	dialectical and historical materialism (como os camaradas sugeriram)
-economia política	Political Economics
+economia política	Political Economy  	mudado por Clemens: Nao achei nenhuma definição pra "economics" só para "economy"
 economia Marxista	marxist economics	(Também achei "Marxian Economics")
 Modo de produção	Mode of production
 forças produtivas	productive forces
@@ -19,3 +19,4 @@ Do Socialismo Utópico ao Socialismo Científico	Socialism: Utopian and Scientif
 As Três Fontes e as Três Partes Constitutivas do Marxismo	The Three Sources and Three Component Parts of Marxism
 Princípios Básicos do Comunismo	The Principles of Communism
 revoluções burguesas	bourgeois revolutions
+mercadoria	commodity	criador por Clemens
