@@ -1,53 +1,37 @@
-Então, vamos lá, vamos para uma categoria que é difícil, 
-mas imprescindível para se compreender a Crítica da economia política do Marx.
-Lembra que a gente falou que a mercadoria é centro das relações sociais? 
-Essa mercadoria, ela tem uma coisa chamada Valor. 
-A pergunta que tem que ser respondida é: qual é o Valor? Como esse Valor é determinado? 
-Então, eu vou começar com uma citação que me fez entender
-Valor de uma vez por todas, tá? 
-Mas, eu vou começar com a citação, 
-e depois a gente vai descrever o Valor, e não contrário. 
-“…quando digo que um quarter (é uma medida de trigo) se troca por ferro 
-numa determinada proporção ou que o valor de um quarter de trigo
-se expressa numa determinada quantidade de ferro, 
-digo que o valor do trigo ou seu equivalente em ferro são iguais 
-a uma terceira coisa, que não é trigo nem ferro, pois suponho que ambos 
-exprimem a mesma grandeza sob duas formas distintas. 
-Portanto, cada um desses dois objetos, tanto o trigo como o ferro, 
-deve poder reduzir-se independentemente um do outro, àquela terceira coisa, 
-que é a medida comum de ambos”. 
-Eu nunca mais esqueci essa citação. 
-Quando uma quantidade de trigo é igual uma quantidade de ferro, 
-não significa que uma igual ao outro,
-mas que os dois são iguais a uma terceira coisa. 
-Essa terceira coisa é o Valor. Vamos lá, Valor. 
-O Valor Talvez seja uma das categorias mais difíceis da Economia política, inclusive reconhecida pelo próprio Marx. 
-O Marx diz na introdução do O Capital que o primeiro capítulo é o mais difícil que é o que ele descreve o Valor, inclusive. 
-Nós temos mercadorias na sociedade, nós compramos nossas coisas.
-Essas mercadorias têm Valor. 
-Lembra que eu falei para vocês olharem em volta 
-e pensarem em quem fez o que vocês têm? 
-Todos os objetos que vocês têm, todos, sem exceção, tem uma substância comum. Sabe qual é a substância comum de tudo que vocês têm? Trabalho. 
-O trabalho, gente, é uma substância social. 
-Toda mercadoria tem uma quantidade de trabalho cristalizado nela. 
-Valor é preço? Não, não. Valor é preço, chat? Não. 
-Todas as vezes que você acha que você não tá entendendo o que é Valor, certifique-se de que você não tá confundindo com preço, tá? 
-Vamos lá, o que determina o valor de uma mercadoria? 
-O trabalho socialmente necessário para confecção dessa mercadoria. 
-O que tem mais valor, gente, um copo ou um carro? Carro. 
-Por quê? Porque a quantidade de trabalho necessário para fazer
-um carro é muito maior. Fazer um carro da muito mais trabalho para fazer do que um copo. 
-Logo, o carro tem um valor muito superior ao do copo. 
-Isso quer dizer que se eu tiver uma fábrica de copo 
-e eu demorar o tempo que demora para fazer um carro para fazer esse copo, significa que o copo vai valer muito? Não, tá? Não. Pelo amor de Deus, não. 
-O valor é determinado pela quantidade de trabalho socialmente necessário. 
-O critério social é imprescindível. 
-O valor é determinado a partir da quantidade de trabalho num certo estado social e determinadas condições de produção de uma sociedade inteira. 
-É com quanto trabalho uma sociedade inteira consegue produzir um copo, 
-e não como você, indivíduo, consegue produzir o copo, beleza? 
-E o preço? Então, se valor não é preço, o que é preço? 
-O preço é a expressão em dinheiro do valor, expressão em dinheiro.
-O preço costuma gravitar em torno do valor. 
+So, let'go to a subject that is a bit more complicated, but fundamental to our understanding of Marx's critique of Political Economy.    
+Remember that the commodity is the center of our social relationships? 
+This commodity has something called Value.  
+So the question that comes up is: what is Value? How is Value determined? 
+Ok, so I'll begin with a quote that made me understand Value once and for all. 
+But I'll start with the quote and then we are gonna describe Value, not the contrary. 
+"...if I say a quarter of wheat exchanges with iron in a certain proportion, or the Value of a quarter  of  wheat  is  expressed  in  a  certain  amount  of  iron, I  say  that  the  Value  of  wheat  and its  equivalent  in  iron  are  equal  to some  third  thing,   which  is  neither  wheat  nor  iron,  because  I suppose them to express the same magnitude in two different shapes. 
+Either of them, the wheat or the iron, must, therefore, independently of the other, be reducible to this third thing which is their common measure.". 
+I've never forgotten this quote. 
+If a certain amount of wheat is equal to certain amount of iron, it does not mean that one is the same as the other, but that they are equal to a third thing. 
+And this third thing is the Value. Ok, so, Value. 
+Value is maybe one of the most complicated concepts of Political Economy, even Marx recognized that. 
+Marx says in the Introduction to Capital that the first chapter was the most complicated, and it is , in fact, the one in which he describes Value. 
+We have commodities in society, we buy our things.
+These commodities have Value. 
+Remember when I told you to look around and think about who made the things you have? 
+All the objects you possess, all of them, without exception, has one substance in common. Do you know what is this substance common to all the things you have? Labour. 
+Labour, folks, is a social substance. 
+Every commodity has in it some amount of crystallized labour.  
+Is value the same thing as price? No, no. Is price Value, chat? No. 
+Every time you think you're not understanding what Value is, be sure you're not  confusing it with price, ok? 
+So, what determines the Value of a commodity?  
+The labour socially necessary for the confection of this commodity. 
+Folks, what has more Value, a glass or a car? Car. 
+Why? Because the amount of labour needed to make a car is way bigger. Making a car requires way more labour than making a glass. 
+Therefore, a car has much more Value than a glass. 
+This means that if I had a glass factory, and it took me the same amount of time needed to make a car, to make this glass, the glass would get more expensive? No, ok? No. For the love of God, no. 
+Value is determined by the amount of socially necessary labour.  
+The social criteria is fundamental.  
+What determines Value is the amount of labour in a certain social state and under specific productive conditions of an entire society. 
+It's how much labour an entire society needs to produce a glass, and not how much you, an individual, needs to produce a glass, ok?. 
+And price? So, if Value is not price, what then is price? 
+Price is the expression of value as money, expression in money.  
+Price usually gravitates around value. 
 Esse preço que gravita em torno do valor, o Adam Smith, o Adam Smith, 
 não é o Marx, chamava de preço central. 
 Uma vez que uma mercadoria é produzida por trabalho 
@@ -84,7 +68,7 @@ sem entender mais-valia, a gente não entende capitalismo.
 “Mais-valia” pode ser “mais-valor”, também.
 Entendem? Para entender mais-valor, a gente precisa entender valor.
 Então, vamos lá: segundo Engels, a descoberta da mais-valia
-é uma descoberta da mesma magnitude da teoria evolutiva de Darwin. Por quê?
+é uma descoberta da mesma magnitude da teoria evolutiva de Darwin. Why?
 Porque ela consegue expor, deixar nu, o mecanismo interno de exploração.
 Quando a gente fala de exploração no capitalismo, gente, não é um juízo de valor.
 A gente está descrevendo o mecanismo do capitalismo.
