@@ -87,16 +87,6 @@ Plataformas:
 
 Notion - Guilda dos Tradutores e revisores radicais OFICIAL
 
-Trello:
-
-E-mail/drive: [guildadostradutores@gmail.com](mailto:guildadostradutores@gmail.com)
-
-senha: x1ascSTrAdutocoLlabIN***(193/6
-
-Notion: (mesmo email) -
-
-senha: Leninelindo17
-
 -   Coreia Popular
 
 Manter os conteúdos contrapropaganda até que a guilda decida não o fazer mais.
