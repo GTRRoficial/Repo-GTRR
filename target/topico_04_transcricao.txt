@@ -1,5 +1,5 @@
 So, let'go to a subject that is a bit more complicated, but fundamental to our understanding of Marx's critique of Political Economy.    
-Remember that the commodity is the center of our social relationships? 
+Remember that the commodity is the center of our social relations? 
 This commodity has something called Value.  
 So the question that comes up is: what is Value? How is Value determined? 
 Ok, so I'll begin with a quote that made me understand Value once and for all. 
@@ -8,23 +8,23 @@ But I'll start with the quote and then we are gonna describe Value, not the cont
 Either of them, the wheat or the iron, must, therefore, independently of the other, be reducible to this third thing which is their common measure.". 
 I've never forgotten this quote. 
 If a certain amount of wheat is equal to certain amount of iron, it does not mean that one is the same as the other, but that they are equal to a third thing. 
-And this third thing is the Value. Ok, so, Value. 
+And this third thing is Value. Ok, so, Value. 
 Value is maybe one of the most complicated concepts of Political Economy, even Marx recognized that. 
-Marx says in the Introduction to Capital that the first chapter was the most complicated, and it is , in fact, the one in which he describes Value. 
+Marx says in the Introduction to Capital that the first chapter was the most complicated, and it is the one in which he describes Value. 
 We have commodities in society, we buy our things.
 These commodities have Value. 
-Remember when I told you to look around and think about who made the things you have? 
-All the objects you possess, all of them, without exception, has one substance in common. Do you know what is this substance common to all the things you have? Labour. 
+Do you remember when I told you to look around and think about who made the things you have? 
+All the objects you possess, all of them, without exception, has one substance in common. Do you know what this substance common to all the things you have is? Labour. 
 Labour, folks, is a social substance. 
 Every commodity has in it some amount of crystallized labour.  
-Is value the same thing as price? No, no. Is price Value, chat? No. 
+Is Value the same thing as price? No, no. Is price Value, chat? No. 
 Every time you think you're not understanding what Value is, be sure you're not  confusing it with price, ok? 
 So, what determines the Value of a commodity?  
 The labour socially necessary for the confection of this commodity. 
 Folks, what has more Value, a glass or a car? Car. 
 Why? Because the amount of labour needed to make a car is way bigger. Making a car requires way more labour than making a glass. 
 Therefore, a car has much more Value than a glass. 
-This means that if I had a glass factory, and it took me the same amount of time needed to make a car, to make this glass, the glass would get more expensive? No, ok? No. For the love of God, no. 
+Does this mean that if I had a glass factory, and it took me the same amount of time needed to make a car, to make this glass, the glass would get more expensive? No, ok? No. For the love of God, no. 
 Value is determined by the amount of socially necessary labour.  
 The social criteria is fundamental.  
 What determines Value is the amount of labour in a certain social state and under specific productive conditions of an entire society. 
@@ -32,124 +32,88 @@ It's how much labour an entire society needs to produce a glass, and not how muc
 And price? So, if Value is not price, what then is price? 
 Price is the expression of value as money, expression in money.  
 Price usually gravitates around value. 
-Esse preço que gravita em torno do valor, o Adam Smith, o Adam Smith, 
-não é o Marx, chamava de preço central. 
-Uma vez que uma mercadoria é produzida por trabalho 
-e ela vai ser vendida no mercado. Ela tende a se aproximar do seu valor. 
-Valor não é preço, valor é uma propriedade da mercadoria, 
-e o valor é determinado pela quantidade socialmente necessária de trabalho. 
-Pois bem, lembra que a gente falou que a mercadoria 
-é o centro de todas as relações sociais? 
-No Capitalismo, a nossa força de trabalho também é mercadoria. 
-A gente vende a nossa força de trabalho a preço de mercado. 
-Se a nossa força de trabalho é mercadoria 
-e o valor é uma propriedade da mercadoria. 
-Qual que é o valor da nossa força de trabalho? 
-O valor da nossa força de trabalho é determinado
-pelo trabalho socialmente necessário também. 
-Só que de outra forma, o valor da sua força de trabalho é determinado a partir do valor de tudo que te reproduz. 
-É o valor de tudo que você precisa para existir. 
-Comida, roupa, casa, aquecimento, etc.
-Tudo isso que você consome para existir 
-tem trabalho socialmente necessário para produzi-lo. 
-O Valor da sua força de trabalho é
-a soma dos valores de tudo que você precisa para existir. 
-E, no Capitalismo, principalmente, com mão de obra extremamente desqualificada. Esse Valor da força de trabalho se aproxima muito do mínimo para você existir. Então, quando você vende a sua força de trabalho no mercado de trabalho, 
-por isso que a gente chama de mercado de trabalho, 
-você está a vendendo pelo seu valor, 
-e o valor da sua força de trabalho é determinado a partir do que você precisa consumir para existir. 
-E vocês conseguem auferir isso na realidade, gente. 
-Isso é o seu salário sendo pago para você comprar o mínimo para você existir, só. 
-Por que isso tudo é muito importante?
-Porque entender o que é valor faz com que a gente compreenda
-a maior descoberta da economia política marxista, que é a mais-valia.
-Sem entender valor, a gente não entende mais-valia;
-sem entender mais-valia, a gente não entende capitalismo.
-“Mais-valia” pode ser “mais-valor”, também.
-Entendem? Para entender mais-valor, a gente precisa entender valor.
-Então, vamos lá: segundo Engels, a descoberta da mais-valia
-é uma descoberta da mesma magnitude da teoria evolutiva de Darwin. Why?
-Porque ela consegue expor, deixar nu, o mecanismo interno de exploração.
-Quando a gente fala de exploração no capitalismo, gente, não é um juízo de valor.
-A gente está descrevendo o mecanismo do capitalismo.
-Falar de exploração no capitalismo não é juízo, é descritivo.
-E isso só se compreende ao compreender valor e mais-valia.
-Então, vamos lá: de novo, o que determina o valor de uma mercadoria
-é o trabalho socialmente necessário vertido nessa mercadoria.
-Quem executa esse trabalho?
-É o trabalhador, não é o burguês. O burguês não trabalha, quem trabalha é o trabalhador.
-Pois bem, ao trabalhar e criar esse valor, em troca, o trabalhador recebe salário.
-Só que o salário do trabalhador é equivalente ao valor da força de trabalho dele,
-e não ao valor que ele criou ao trabalhar!
-Ou seja, enquanto o trabalhador está trabalhando, ele cria valor, cria valor, cria valor,
-só que ele recebe o equivalente ao valor da força de trabalho dele na forma do salário.
-Ou seja, o que ele cria não tem conexão com o que ele recebe.
-O que ele recebe tem conexão com que ele precisa para viver.
-Imagina o seguinte: se você tem uma jornada de 8 horas diárias de trabalho
-e em 4 horas você produz o valor equivalente ao seu salário,
-as outras quatro horas você trabalhou de graça.
-Esse trabalho de graça a gente chama de trabalho suplementar.
-O valor gerado nesse período suplementar é apropriado pelo burguês na forma da mais-valia,
-ou mais-valor.
-A mais-valia é o mecanismo pelo qual o burguês lucra.
-E nós temos três tipos de mais-valia: absoluta, relativa e extraordinária.
-A mais-valia absoluta se expande conforme as horas de trabalho se expandem.
-Lembra o que eu falei? Você precisa de 4 horas diárias para gerar o valor do seu salário,
-e sua jornada é de 8.
-De repente, a jornada aumenta para 10, sem mudança de salário. Você gerou mais mais-valia.
-Mais-valia absoluta: aumentou a jornada de trabalho, aumentou o lucro do patrão.
-A mais-valia relativa é: imagina que você trabalha 8 horas por dia,
-mas a fábrica ficou mais otimizada.
-Em vez de produzir x cadeiras, você produz, no mesmo intervalo de tempo, 2x cadeiras.
-Só que cê recebe o mesmo salário.
-Você aumentou a extração do valor de maneira relativa;
-o tempo de trabalho é o mesmo, mas você produz muito mais.
-E a mais-valia extraordinária tem relação com a produção dos mesmos objetos,
-das mesmas mercadorias, em outras indústrias. 
-Por exemplo: se tem várias indústrias que produzem cadeira,
-e uma delas descobre um jeito de produzir bem mais rápido, quando essa cadeira for para o mercado,
-ela, por ser vendida por um preço parecido com as outras, vai ser mais lucrativa.
-Então, a mais-valia extraordinária é relativa à indústria como um todo,
-e quando uma indústria descobre um jeito de baratear os seus custos.
-Essa mais-valia tende a se equilibrar de duas maneiras:
-ou com as outras indústrias se otimizando também, ou com essa quebrando as outras e formando um monopólio.
-E a questão é: o objetivo final de todo burguês é o aumento da extração de mais-valia. O aumento. O aumento.
-Isso não é um juízo moral.
-O Marx em momento algum faz juízo de valor.
-Ele não fala “é ruim”, “é bom”, “é feio”, “é bobo”, “é cara de mamão”.
-Você falar que o objetivo de cada burguês é a busca pelo aumento da mais-valia é descritivo,
-porque isso é auferível, a gente consegue verificar isso na realidade.
-E o que é importante aqui?
-Ao extrair o lucro através da mais-valia, o burguês incorpora esse lucro de volta no capital dele.
-Quando se extrai a mais-valia,
-o burguês reinveste na produção para aumentar a extração dessa mais-valia.
-Ele aperfeiçoa cada vez mais essa extração num ciclo infinito e incessante.
-O capitalismo apresenta crises cíclicas desde que ele surgiu.
-Já na década de 70 do século XIX, o Engels fala em sete crises do capitalismo. Sete! No século XIX!
-Isso quando o capitalismo era bem menor do que é hoje;
-quando ele estava restrito a alguns países, só.
-Bom, vamos amarrar isso tudo?
-A crítica da economia política de Marx se concentra em analisar o capitalismo.
-O capitalismo é um modo de produção baseado no emprego da grande indústria,
-da divisão do trabalho, da sociedade de classes, da propriedade privada,
-da mercadoria como centro de relações sociais na exploração e expansão constante do capital.
-Vamos recapitular alguns conceitos, aqui. Agora, nós vimos valor e mais-valia.
-Valor: é uma “propriedade da mercadoria”.
-E essa propriedade é “determinada pelo trabalho socialmente necessário”.
-A mais-valia é o “valor gerado pelo trabalhador que é apropriado pelo burguês na forma de lucro”,
-e que não retorna para o trabalhador.
-Essa mais-valia pode ser: “absoluta”, quando se aumenta as horas de trabalho;
-“relativa”, quando se aumenta a produtividade;
-e “extraordinária”, quando se aumenta a produtividade em relação a outras fábricas. Tá bom?
-E por que isso tudo é importante?
-A gente não ia falar de comunismo? Por que a gente está falando tanto de capitalismo?
-Compreender o modo de produção capitalista é necessário
-para a gente caminhar em direção a outro modo de produção,
-a transformar nossas forças produtivas e as nossas relações de produção.
-Lembra que a gente falou que o marxismo e comunismo são avessos a utopismos? À utopia, idealismo?
-Toda análise marxista, toda, parte da realidade material.
-Esse é o objeto de estudo do Marx:
-observar a realidade capitalista, a realidade em que ele estava vivendo.
-Beleza? E aí, a gente entra no último pilar do marxismo,
+This price that gravitates around Value, Adam Smith - the Adam Smith, not Marx - called it central price.     
+Once a commodity is produced by labour and it goes out to be sold in the market. It (the commodity) will get closer to its value. 
+Value is not price, value is a property of the commodity, and value is determined by the amount of socially necessary labour. 
+Very well, remember we said that the commodity is the center of all social relations? 
+In Capitalism, our labour power is also a commodity. 
+We sell our labour power at market price.  
+If our labour power is a commodity, and value is a property of a commodity. 
+What is the value of our labour power? 
+The value of our labour power is also determined by the socially necessary labour, 
+but in another way, the value of your labour power is determined by all that reproduces you. 
+It's the value of everything you need to exist.  
+Food, clothing, roof, heating, etc.
+All that you consume in order to exist has in it the socially necessary labour needed to produce it. 
+The Value of your labour power is the sum of the values of all the things you need in order to exist.  
+And, in Capitalism, specially, with an extremely unqualified workforce,  the labour power's value gets really close to the bare minimum you need to maintain your existence. So, when you sell your labour power in the labour market, that's why we call it labour market, you are selling it by your value, and the value of your labour power is determined by what you need to keep existing.  
+And this you can derive from reality, folks. 
+Your salary is being paid to you so that you can buy what you need to continue existing.. 
+Why is all of that so important?
+Because understanding what value is makes us comprehend the greatest discovery of Marxist Political Economy, which is the Surplus Value.
 
-que a gente chama de socialismo científico.
+Without understanding value, we would not understand surplus.
+"Surplus (valia)" can also be "surplus value".
+Got it? To understand surplus value, we need to understand value.
+So: according to Engels, the discovery of the surplus value is a discovery in the same magnitude as Darwin's Theory of Evolution. Why?
+Because it can expose, strip naked, the internal mechanisms of exploitation.
+When we talk about exploitation in Capitalism, folks, we are not judging it.
+We are describing the mechanism of Capitalism. 
+Talking about exploitation in Capitalism is not a judgment on moral grounds, it's merely descriptive.
+And this is only understood when your understand what value and surplus value are.
+So, let's go over it again: what determines the value of a commodity is the socially necessary labour contained in this commodity. 
+Who does this labour?
+It's the worker, not the bourgeois.  The bourgeois doesn't work, who works is the worker.
+Very well, after working and creating this value, in exchange, the worker receives a wage.
+But the wage of the worker is equal to the value of his labour power, and not the value he created while labouring! 
+That means that while the worker is working, labouring, he creates value, creates value, creates value, but he receives the equivalent to the value of the labour power in the form of a wage.  
+That is, what he creates has no connection with what he receives.
+What he receives has a connection with what he needs to live.
+Imagine the following: If you have an 8-hour workday
+and in four hours you produce the equivalent value of your salary,
+the other four hours you worked for free.
+This free labour we call it surplus labour .
+The value created in this surplus period is appropriated by the bourgeois in the form of the surplus value.
+Surplus value is the mechanism by which the bourgeois profits. 
+And we have three types of surplus value:absolute, relative, extraordinary.
+Absolute surplus value expands as the labor hours expand.
+Remember what I said? You need 4 daily hours to generate the value of your salary, and your workday has 8 hours.
+Out of a sudden, your workday goes up to 10 hours, without a wage increase. You've created more surplus value.
+Absolute surplus value: the workday increases, so the capitalist's profit increases.
+Relative surplus value: imagine that you work 8 hours a day, but the factory got optimized.
+Instead of producing x chairs, you produce, in the same amount of time, 2x chairs. 
+But you receive the same salary.
+You increased the extraction of value in a relative manner; the labour time needed is the same, but you can produce way more.
+And the extraordinary surplus value has to do with the production of the same objects, of the same commodities, but in other companies.  
+For example: if there are many companies producing chairs, and one of them discovers a much faster way to produce, when this commodity goes to the market, it, being sold at a similar price as the others, will yield more profit.
+So, extraordinary surplus value is relative towards the industry as a whole, when some company discovers a way to lower their costs.
+This surplus value tends to find an equilibrium in two ways: either when some other company also gets optimized, or when one company breaks all the others creating a monopoly.
+And the point is: the final goal of every bourgeois is the increase in the extraction of surplus value. The increase. The increase.
+This is not a moral judgment.
+Marx at no moment makes some moral judgment.
+He doesn't say "it's bad", "good", "ugly", "stupid", "melon face".
+Saying that the goal of the bourgeois is the increase of surplus value is descriptive, because this is observable, we can verify it in reality. 
+And what is important here?
+As profit is extracted by means of the surplus value, the bourgeois incorporates this profit back to their capital.
+When surplus value is extracted, the bourgeois reinvests it in production to increase the extraction of this surplus value.
+They finess more each time this extraction, in a endless and incessant cycle. 
+Capitalism has shown cyclical crisis since its beginnings.
+Already in the 70's of the 19th century, Engels talks about seven crises of capitalism. Seven! In the 19th century.
+This is when capitalism was way smaller than it is today; when it was restricted to only a couple of countries.
+So, let's wrap it up?
+Marx's critique of Political Economy focuses in analyzing capitalism.
+Capitalism is a mode of production based on the employment of big industries. in the division of labour, in class society, in private property, in the commodity as the center of social relations and in the constant expansion of capital.
+Let's recap some concepts. We have seen value and surplus value.
+Value: it is a "property of the commodity".
+And this property is "determined by the socially necessary labour.
+Surplus value is the "value created by the worker which is appropriated by the bourgeois", and that doesn't return to the worker.
+This surplus value can be: "absolute", when the working hours increase; "relative", when productivity increases; and "extraordinary" when the productivity in relation to other factories increases. Ok?
+And why is all that important?
+Weren't we going to talk about communism? Why are we talking so much about capitalism?
+Understanding the capitalist mode of production is necessary so we can walk towards some other mode of production, transform our productive forces and our relations of production.
+Remember we said that Marxism and Communism have an aversion towards utopianism?  towards utopia, idealism?
+Every Marxist analysis, every, starts from material reality. 
+This is Marx's object of study: observing capitalism's reality, the reality in which he was living.
+Ok? And then, we go to the last pillar of Marxism 
+
+which we call scientific socialism.
