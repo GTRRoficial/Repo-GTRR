@@ -510,6 +510,14 @@ utilizado na aquisição dos Meios de produção.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Capital: valor que gera valor, recurso que gera recurso, riqueza que gera riqueza.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T195229Z" creationid="Renan" creationdate="20221230T195229Z">
+        <seg>Capital: value that creates value, resource that creates resource, wealth that creates wealth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Carro.</seg>
       </tuv>
       <tuv lang="en-US" changeid="clemens" changedate="20221221T051851Z" creationid="clemens" creationdate="20221221T051851Z">
@@ -1944,6 +1952,14 @@ como os humanos atuam sobre a natureza.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Fábrica, matéria-prima, energia.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T195238Z" creationid="Renan" creationdate="20221230T195142Z">
+        <seg>Factory, raw material, energy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Fábrica, máquina, terra, energia, matéria-prima e força de trabalho.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Renan" changedate="20221230T194324Z" creationid="Renan" creationdate="20221230T194324Z">
@@ -2318,12 +2334,30 @@ is the basis for our social structure. </seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Meios de produção: o que é necessário para execução do trabalho.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T195132Z" creationid="Renan" creationdate="20221230T195132Z">
+        <seg>Means of production: what is necessary for the execution of work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Mercadoria é algo que é produzido 
 para consumo de outra pessoa e para ser trocado no mercado.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Renan" changedate="20221230T194654Z" creationid="Renan" creationdate="20221230T194654Z">
         <seg>Commodity is something that is produced
 for someone else's comsuption, and to be traded on the market.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Mercadoria: algo produzido para ser consumido por outro, 
+para ser vendido no mercado, show?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T195339Z" creationid="Renan" creationdate="20221230T195339Z">
+        <seg>Commodity: something produced to be consumed by the other,
+to be sold in the market, okay? </seg>
       </tuv>
     </tu>
     <tu>
@@ -2514,6 +2548,14 @@ com outras relações sociais.</seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T221254Z" creationid="daniel" creationdate="20221218T221254Z">
         <seg>It's not reality that is created by our thoughts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Não é a sua casa, não é o seu Corsa, não é o seu chinelo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T195039Z" creationid="Renan" creationdate="20221230T195039Z">
+        <seg>It's not your house, your old truck, your flip-flops.</seg>
       </tuv>
     </tu>
     <tu>
