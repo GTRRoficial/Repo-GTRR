@@ -518,6 +518,30 @@ utilizado na aquisição dos Meios de produção.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Classe é determinada pelo quanto de trabalho você ganha?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194817Z" creationid="Renan" creationdate="20221230T194809Z">
+        <seg>Is class determined by how much work do you get?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Classe é determinada por divisão social do trabalho.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194836Z" creationid="Renan" creationdate="20221230T194836Z">
+        <seg>Class is determined by the social division of labor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Classe é determinada por onde você está no processo produtivo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194841Z" creationid="Renan" creationdate="20221230T194841Z">
+        <seg>Class is determined by where you are in the productive process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Classe, gente, é uma divisão social do trabalho.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Renan" changedate="20221222T134259Z" creationid="Renan" creationdate="20221222T134259Z">
@@ -1247,6 +1271,14 @@ and the labor is divided by ability or skill.</seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T182019Z" creationid="daniel" creationdate="20221218T182019Z">
         <seg>That's metaphysics then.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Então ‘tá bom.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194936Z" creationid="Renan" creationdate="20221230T194936Z">
+        <seg>So that's right. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2202,6 +2234,14 @@ the free disposal of another's labor power?</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Lembrando que nós estamos falando da propriedade privada dos Meios de produção.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T195030Z" creationid="Renan" creationdate="20221230T195030Z">
+        <seg>Remembering that we are talking about the private property of means of production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Logo, o carro tem um valor muito superior ao do copo.</seg>
       </tuv>
       <tuv lang="en-US" changeid="clemens" changedate="20221221T054654Z" creationid="clemens" creationdate="20221221T052143Z">
@@ -2730,6 +2770,14 @@ da mercadoria como centro de relações sociais na exploração e expansão cons
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>O capitalismo é um modo de produção.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194738Z" creationid="Renan" creationdate="20221230T194738Z">
+        <seg>Capistalism is a Mode of Production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>O critério social é imprescindível.</seg>
       </tuv>
       <tuv lang="en-US" changeid="clemens" changedate="20221221T052555Z" creationid="clemens" creationdate="20221221T052555Z">
@@ -2854,6 +2902,16 @@ as a critique of utopianisms and idealisms</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>O que determina a classe para o Marxismo é 
+a posição que você ocupa no processo produtivo, tá bom?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194932Z" creationid="Renan" creationdate="20221230T194900Z">
+        <seg>What determines class for Marxism is
+the position you occupy in the productive process, right?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>O que determina a classe é qual posição você ocupa na cadeia produtiva.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Renan" changedate="20221222T140746Z" creationid="Renan" creationdate="20221222T140746Z">
@@ -2883,6 +2941,14 @@ não é vocação, é social.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Renan" changedate="20221230T194203Z" creationid="Renan" creationdate="20221230T194203Z">
         <seg>They aren't synonymous, it's that what I mean..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que faz isso ficar tão confuso é que a gente usa hoje em dia essa terminologia “Classe A”, “Classe B”, “Classe C”.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194849Z" creationid="Renan" creationdate="20221230T194849Z">
+        <seg>What makes it so confusing is that, nowadays, we use this terminology "Upper Class", "Middle Class",  "Lower Class".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2931,6 +2997,23 @@ what we wear, how we wear.</seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>O que são Forças produtivas: como os humanos atuam sobre a natureza.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194743Z" creationid="Renan" creationdate="20221230T194743Z">
+        <seg>What are Productive Forces: how humans act on nature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que são Relações de produção: como os humanos atuam uns sobre os outros.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194748Z" creationid="Renan" creationdate="20221230T194748Z">
+        <seg>What are Relations of Production: how humans act on each other.
+.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>O que são as relações de produção?</seg>
       </tuv>
       <tuv lang="en-US" changeid="Renan" changedate="20221222T133119Z" creationid="Renan" creationdate="20221222T133119Z">
@@ -2967,6 +3050,15 @@ what we wear, how we wear.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Renan" changedate="20221230T194225Z" creationid="Renan" creationdate="20221230T194225Z">
         <seg>What you have in your wallet now isn't capital, ok?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>O que é Classe: divisão social do trabalho, (em oposição a divisão natural do trabalho), posição que se ocupa no processo produtivo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194804Z" creationid="Renan" creationdate="20221230T194804Z">
+        <seg>What is Class: social division of labor (as opposed to the work natural division), 
+position occupied in the productive process.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3613,6 +3705,14 @@ a manifestation of human thought. </seg>
     </tu>
     <tu>
       <tuv lang="pt-BR">
+        <seg>Propriedade privada: livre disposição do trabalho de outrem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194940Z" creationid="Renan" creationdate="20221230T194940Z">
+        <seg>Private Property: free disposal of another's labor power. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Quais foram as mãos que tiraram essas metais do veio da terra?</seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221219T223113Z" creationid="daniel" creationdate="20221218T193108Z">
@@ -3744,6 +3844,22 @@ e o valor é uma propriedade da mercadoria.</seg>
       </tuv>
       <tuv lang="en-US" changeid="daniel" changedate="20221218T192710Z" creationid="daniel" creationdate="20221218T192710Z">
         <seg>If there's a chair where you are, who manufactured it?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Se você ganha salário, você é proletário.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194827Z" creationid="Renan" creationdate="20221230T194827Z">
+        <seg>If you earn wages, you are a proletariat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Se você ganha salário, você é trabalhador, tá?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194823Z" creationid="Renan" creationdate="20221230T194823Z">
+        <seg>If you earn wages, you are a worker, ok?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4438,6 +4554,14 @@ e pelo modo de trocar os seus produtos.</seg>
  society divided into classes or orders
  is dependent upon what is produced, how it is produced,
  and how the products are exchanged. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>“Ah, mas meu salário é 100 mil”, você é proletário.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Renan" changedate="20221230T194832Z" creationid="Renan" creationdate="20221230T194832Z">
+        <seg>"Ah, my salary is 100K/monthly", you are a proletariat.</seg>
       </tuv>
     </tu>
     <tu>
