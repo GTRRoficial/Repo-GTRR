@@ -21,7 +21,7 @@ Mas… Se você está aqui pela primeira vez, por onde você vai começar?
 
 Se você for uma pessoa entusiasta, que sabe alguma língua (qualquer que seja, além do português), porém nunca traduziu ou tem experiência com as normas de tradução e tem vontade de ajudar, aqui vão algumas informações para você:
 
-- Você vai conseguir ajudar, não se preocupe com isso. Como prezamos com a qualidade dos nossos conteúdos e com a sua aprendizagem, é norma padrão da GTRR que os tradutores que nós chamamos de novatos fiquem sob a supervisão de tradutores e revisores experientes, já que assim eles conseguem verificar o necessário e ensinar mediante sua vasta experiência na área.
+- Você vai conseguir ajudar, não se preocupe com isso! Como prezamos com a qualidade dos nossos conteúdos e com a sua aprendizagem, é norma padrão da GTRR que os tradutores que nós chamamos de novatos fiquem sob a supervisão de tradutores e revisores experientes, já que assim eles conseguem verificar o necessário e ensinar mediante sua vasta experiência na área.
 - Existe também uma [tabela](https://gtrroficial.notion.site/Iniciantes-dfd6b98025b74deab8fe9849339b1f25) para que você preencha e a ADM da Guilda te ajude, coordene e direcione esse tutor para a sua iniciação.
 - Não importa o conteúdo ao qual você quer trabalhar, estaremos receptivos a ajuda-lo. Mas lembre! Somos um voluntariado que traduz e tem a máxima de criar, difundir e espalhar informações verdadeiras e coerentes sobre a pauta marxista-leninista.
 - Seu tutor será descrito e mencionado [aqui](https://gtrroficial.notion.site/Duplas-02177b2bff504cc2a7e3648e1af71ec3). E não precisa se preocupar, as duplas tem o prazo de dois meses antes de serem trocadas.
