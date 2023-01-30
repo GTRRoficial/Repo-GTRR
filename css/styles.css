@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'opendyslexicregular';
-    src: url('../assets/opendyslexic-regular-webfont.woff2') format('woff2'),
-         url('../assets/opendyslexic-regular-webfont.woff') format('woff');
+    src: url('../assets/regular/opendyslexic-regular-webfont.woff2') format('woff2'),
+         url('../assets/regular/opendyslexic-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -14,7 +14,7 @@
 }
 
 :root {
-    --accent-color: #ea2323;
+    --accent-color: #a00b0b;
     --main-color: #0e0b0b;
     --back-color: #CDAB55;
     --bold-weight: 700;
