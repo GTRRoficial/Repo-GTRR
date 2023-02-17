@@ -1908,8 +1908,8 @@ e não como você, indivíduo, consegue produzir o copo, beleza?</seg>
       <tuv lang="en-US">
         <seg>I’m only seen as myself half of the time, the ugly and beautiful alike.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="paulohcarvalho" changedate="20230217T035425Z">
-        <seg>Eu só me enxergava como eu mesmo/a metade do tempo, tanto o feio quanto o belo..</seg>
+      <tuv lang="pt-BR" changeid="paulohcarvalho" changedate="20230217T035439Z">
+        <seg>Eu só me enxergava como eu mesmo/a metade do tempo, tanto o feio quanto o belo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2371,6 +2371,14 @@ e ela vai ser vendida no mercado.</seg>
       </tuv>
       <tuv lang="pt-BR">
         <seg>Uma vez que esses meios são adquiridos eles se tornam parte do capital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One night, two older gay men kissed me all over in a favourite dive bar of mine.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="paulohcarvalho" changedate="20230217T040044Z" creationid="paulohcarvalho" creationdate="20230217T040044Z">
+        <seg>Uma noite, dois homens gays mais velhos me beijaram inteira/o em um boteco favorito meu.</seg>
       </tuv>
     </tu>
     <tu>
