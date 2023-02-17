@@ -158,8 +158,8 @@ e trabalhar em jornadas exaustivas de trabalho.</seg>
       <tuv lang="en-US">
         <seg>A night out is no longer the only place to find oneself.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="paulohcarvalho" changedate="20230217T041659Z" creationid="paulohcarvalho" creationdate="20230217T041659Z">
-        <seg>A balada não é mais o único lugar para se encontrar.</seg>
+      <tuv lang="pt-BR" changeid="paulohcarvalho" changedate="20230217T052620Z" creationid="paulohcarvalho" creationdate="20230217T041659Z">
+        <seg>A balada não é mais o único lugar para se encontrar-se.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2017,6 +2017,7 @@ e não como você, indivíduo, consegue produzir o copo, beleza?</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Acho que o verbo enxergar têm uma conotação mais reflexiva que o verbo ver.</note>
       <tuv lang="en-US">
         <seg>I’m only seen as myself half of the time, the ugly and beautiful alike.</seg>
       </tuv>
@@ -2522,8 +2523,8 @@ e ela vai ser vendida no mercado.</seg>
       <tuv lang="en-US">
         <seg>One night, two older gay men kissed me all over in a favourite dive bar of mine.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="paulohcarvalho" changedate="20230217T040044Z" creationid="paulohcarvalho" creationdate="20230217T040044Z">
-        <seg>Uma noite, dois homens gays mais velhos me beijaram inteira/o em um boteco favorito meu.</seg>
+      <tuv lang="pt-BR" changeid="paulohcarvalho" changedate="20230217T052554Z" creationid="paulohcarvalho" creationdate="20230217T040044Z">
+        <seg>Uma noite, dois homens gays mais velhos me beijaram inteira num boteco favorito meu.</seg>
       </tuv>
     </tu>
     <tu>
