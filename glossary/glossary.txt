@@ -26,3 +26,4 @@ gente	folks	criado por Clemens: se for tipo interjeição, "e ai, gente, o que v
 força de trabalho	labour power	criado por Clemens
 burgues	bourgeois	criado por Clemens: acho que fica valido usar o termo "capitalist"
 mais-valia	surplus value	criado por Clemens
+threat	ameaça
