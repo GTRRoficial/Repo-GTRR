@@ -1,6 +1,6 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 materialismo histórico-dialético	dialectical and historical materialism (como os camaradas sugeriram)
-economia política	Political Economy  	mudado por Clemens: Nao achei nenhuma definição pra "economics" só para "economy"
+economia política	Political Economy	mudado por Clemens: Nao achei nenhuma definição pra "economics" só para "economy"
 economia Marxista	marxist economics	(Também achei "Marxian Economics")
 Modo de produção	Mode of production
 forças produtivas	productive forces
@@ -27,3 +27,55 @@ força de trabalho	labour power	criado por Clemens
 burgues	bourgeois	criado por Clemens: acho que fica valido usar o termo "capitalist"
 mais-valia	surplus value	criado por Clemens
 threat	ameaça
+trans women	mulheres trans
+alongside	junto a
+why	por que, por quê	"Por quê" deve ser usado somente ao final da frase.
+retreat	recuar
+displace	deslocar
+presumed	suposto, pressuposto, presumido
+pathologisation	patologização
+enact change	alcançar a mudança
+through	através de, no decorrer de
+reasoning	raciocínio
+reconciliation	reconciliação
+protester	manifestante
+Milo Yiannopoulos	Milo Yiannopoulos	"ex-gay" e um dos grandes nomes da "direita alternativa" americana
+Black Panther Party	Partido dos Panteras Negras
+core	núcleo
+core	central
+coup	golpe	de "coup d'état"
+power	poder
+welfare	assistência social
+drug users	usuários de drogas
+Watts	Watts	bairro de Los Angeles
+astroturfed	feito com astroturfing	Astroturfing é a prática de mascarar os patrocinadores de uma mensagem com o intuito de fazer parecer que ela seja apoiada espontaneamente por pessoas ou grupos
+imperialism	imperialismo
+colonialism	colonialismo
+civil	civil
+take up too much space	ocupar espaço demais
+interpersonal	interpessoal
+comrade	camarada
+duty-bound	compelido(a,e)
+duty-bound	na obrigação
+see it to the end	persistir até o fim
+stick with	seguir com
+stick with	seguir ao lado de
+talk [sub.] out	resolver [sub.] na conversa
+asset	bem
+asset	recurso
+asset	patrimônio
+derided	tachado
+derided	caçoado
+falls on me	cabe a mim, cai em mim
+on the same page	de acordo
+await	esperar
+await	antecipar
+speak up	posicionar-se
+uncomfortable	desconfortável
+I’m happy to say	tenho o prazer de dizer
+up to	depender
+up to	ser decisão de alguém
+get a word in	conseguir falar
+sex worker	trabalhador sexual
+confront	confrontar
+confront	enfrentar
