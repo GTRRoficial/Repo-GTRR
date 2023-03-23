@@ -4156,6 +4156,14 @@ ou mais-valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Or by embracing my manly self-stylisation for womanhood’s empowerment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="barba" changedate="20230323T153226Z" creationid="barba" creationdate="20230323T153128Z">
+        <seg>Ou através de aceitar a minha identificação masculina pelo empoderamento feminino. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Organising is confronting these interpersonal problems on a much wider scale.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="domi-macaroni" changedate="20230322T231028Z" creationid="dbert" creationdate="20230320T183215Z">
@@ -5689,8 +5697,8 @@ a chair, anything. </seg>
       <tuv lang="en-US">
         <seg>Women whose words were meant to break down the world and provide avenues for freedom, but did so by reducing masculinity to a pathology.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="barba" changedate="20230323T152921Z" creationid="barba" creationdate="20230323T152921Z">
-        <seg>Mulheres cujas palavras foram feitas para quebrar o mundo e fornecer caminhos para a liberdade, mas fizeram isso reduzindo a masculinidade a uma patologia.</seg>
+      <tuv lang="pt-BR" changeid="barba" changedate="20230323T153147Z" creationid="barba" creationdate="20230323T152921Z">
+        <seg>Mulheres cujas palavras foram feitas para quebrar o mundo e fornecer caminhos para a liberdade, mas fizeram isso através da redução da masculinidade a uma patologia.</seg>
       </tuv>
     </tu>
     <tu>
